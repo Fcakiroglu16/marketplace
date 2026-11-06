@@ -20,7 +20,7 @@
         "official"
       ],
       "source": "plugins/dotnet-api-aspire",
-      "version": "1.0.0-cdb0dff4f3685"
+      "version": "1.0.0-c1e49daae7a4b"
     }
   ]
 }

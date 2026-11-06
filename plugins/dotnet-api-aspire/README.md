@@ -18,6 +18,8 @@ codex plugin marketplace add Fcakiroglu16/marketplace
 codex plugin add dotnet-api-aspire@playbookrun
 ```
 
+Cursor: a team admin imports https://github.com/Fcakiroglu16/marketplace as a team marketplace.
+
 Official skills for building a .NET Web API that runs under .NET Aspire.
 
 **.NET side** (from [dotnet/skills](https://github.com/dotnet/skills)): ASP.NET Core Web API endpoints and OpenAPI, data-driven scaffolding, EF Core query optimization, C# guidance, running tests and scaffolding a test project.
