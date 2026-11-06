@@ -1,0 +1,20 @@
+{
+  "name": "playbookrun",
+  "interface": {
+    "displayName": "PlaybookRun"
+  },
+  "plugins": [
+    {
+      "name": "dotnet-api-aspire",
+      "source": {
+        "source": "local",
+        "path": "./plugins/dotnet-api-aspire"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Backend"
+    }
+  ]
+}

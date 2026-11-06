@@ -1,0 +1,24 @@
+{
+  "name": "dotnet-api-aspire",
+  "version": "1.0.0-cdb0dff4f3685",
+  "description": "Official .NET and Aspire skills: Web API, EF Core, tests, AppHost wiring, orchestration, monitoring and deployment.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "dotnet",
+    "aspnetcore",
+    "api",
+    "aspire",
+    "efcore",
+    "official"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": ".NET API with Aspire",
+    "shortDescription": "Official .NET and Aspire skills: Web API, EF Core, tests, AppHost wiring, orc...",
+    "longDescription": "Official .NET and Aspire skills: Web API, EF Core, tests, AppHost wiring, orchestration, monitoring and deployment.",
+    "developerName": "PlaybookRun",
+    "category": "Backend"
+  }
+}
