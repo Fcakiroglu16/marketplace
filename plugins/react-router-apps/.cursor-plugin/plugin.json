@@ -1,0 +1,16 @@
+{
+  "name": "react-router-apps",
+  "displayName": "React Router apps",
+  "version": "1.0.0-c72b405c51c1c",
+  "description": "The React Router team\u0027s official skills for framework mode, data mode and declarative mode routing.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "react",
+    "react-router",
+    "remix",
+    "official"
+  ],
+  "category": "frontend"
+}

@@ -189,6 +189,111 @@
       ],
       "source": "plugins/azure-for-dotnet",
       "version": "1.0.0-cdf8e7d38356d"
+    },
+    {
+      "name": "angular-apps",
+      "description": "The Angular team\u0027s official skills and CLI MCP server: new apps with current defaults, signals, forms, routing, SSR, testing and CLI.",
+      "category": "Frontend",
+      "keywords": [
+        "angular",
+        "typescript",
+        "signals",
+        "official"
+      ],
+      "source": "plugins/angular-apps",
+      "version": "1.0.0-c79291d44884c"
+    },
+    {
+      "name": "react-apps",
+      "description": "Vercel\u0027s official React skills: performance rules, component composition and view transitions, with shadcn/ui components and Chrome DevTools.",
+      "category": "Frontend",
+      "keywords": [
+        "react",
+        "typescript",
+        "performance",
+        "official"
+      ],
+      "source": "plugins/react-apps",
+      "version": "1.0.0-c3e4a1befe488"
+    },
+    {
+      "name": "nextjs-on-vercel",
+      "description": "Build Next.js apps with Vercel\u0027s React rules and the Next.js DevTools MCP server, then inspect and optimize them on Vercel with the Vercel MCP server.",
+      "category": "Frontend",
+      "keywords": [
+        "nextjs",
+        "react",
+        "vercel",
+        "deployment",
+        "official"
+      ],
+      "source": "plugins/nextjs-on-vercel",
+      "version": "1.0.0-cae8b3ebd1c25"
+    },
+    {
+      "name": "react-router-apps",
+      "description": "The React Router team\u0027s official skills for framework mode, data mode and declarative mode routing.",
+      "category": "Frontend",
+      "keywords": [
+        "react",
+        "react-router",
+        "remix",
+        "official"
+      ],
+      "source": "plugins/react-router-apps",
+      "version": "1.0.0-c72b405c51c1c"
+    },
+    {
+      "name": "svelte-apps",
+      "description": "The Svelte team\u0027s official skills and MCP server: Svelte 5 runes, best practices and an autofixer for generated components.",
+      "category": "Frontend",
+      "keywords": [
+        "svelte",
+        "sveltekit",
+        "official"
+      ],
+      "source": "plugins/svelte-apps",
+      "version": "1.0.0-c0f129159635b"
+    },
+    {
+      "name": "react-native-apps",
+      "description": "Vercel\u0027s official React Native skill: performance, lists, animations, navigation and native modules in React Native and Expo apps.",
+      "category": "Mobile",
+      "keywords": [
+        "react-native",
+        "expo",
+        "mobile",
+        "official"
+      ],
+      "source": "plugins/react-native-apps",
+      "version": "1.0.0-ce043fb25feb0"
+    },
+    {
+      "name": "frontend-design",
+      "description": "Anthropic\u0027s frontend-design skill with Vercel\u0027s web interface guidelines, Figma\u0027s MCP server for designs and Chrome DevTools for review.",
+      "category": "Design",
+      "keywords": [
+        "design",
+        "ui",
+        "accessibility",
+        "figma",
+        "official"
+      ],
+      "source": "plugins/frontend-design",
+      "version": "1.0.0-c7d26e937c59a"
+    },
+    {
+      "name": "web-ui-testing",
+      "description": "Anthropic\u0027s webapp-testing skill with Playwright and Chrome DevTools MCP servers: drive the app, check behaviour, capture screenshots and logs.",
+      "category": "Testing",
+      "keywords": [
+        "playwright",
+        "testing",
+        "e2e",
+        "official"
+      ],
+      "source": "plugins/web-ui-testing",
+      "version": "1.0.0-c2d3bfd0d5682"
     }
   ]
 }

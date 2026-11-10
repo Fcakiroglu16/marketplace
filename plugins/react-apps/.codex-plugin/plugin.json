@@ -1,0 +1,23 @@
+{
+  "name": "react-apps",
+  "version": "1.0.0-c3e4a1befe488",
+  "description": "Vercel\u0027s official React skills: performance rules, component composition and view transitions, with shadcn/ui components and Chrome DevTools.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "performance",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "React apps",
+    "shortDescription": "Vercel\u0027s official React skills: performance rules, component composition and ...",
+    "longDescription": "Vercel\u0027s official React skills: performance rules, component composition and view transitions, with shadcn/ui components and Chrome DevTools.",
+    "developerName": "PlaybookRun",
+    "category": "Frontend"
+  }
+}

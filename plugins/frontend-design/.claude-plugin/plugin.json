@@ -1,0 +1,15 @@
+{
+  "name": "frontend-design",
+  "version": "1.0.0-c7d26e937c59a",
+  "description": "Anthropic\u0027s frontend-design skill with Vercel\u0027s web interface guidelines, Figma\u0027s MCP server for designs and Chrome DevTools for review.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "design",
+    "ui",
+    "accessibility",
+    "figma",
+    "official"
+  ]
+}

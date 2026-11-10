@@ -1,0 +1,22 @@
+{
+  "name": "react-native-apps",
+  "version": "1.0.0-ce043fb25feb0",
+  "description": "Vercel\u0027s official React Native skill: performance, lists, animations, navigation and native modules in React Native and Expo apps.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "mobile",
+    "official"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "React Native apps",
+    "shortDescription": "Vercel\u0027s official React Native skill: performance, lists, animations, navigat...",
+    "longDescription": "Vercel\u0027s official React Native skill: performance, lists, animations, navigation and native modules in React Native and Expo apps.",
+    "developerName": "PlaybookRun",
+    "category": "Mobile"
+  }
+}

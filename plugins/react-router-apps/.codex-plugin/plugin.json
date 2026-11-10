@@ -1,0 +1,23 @@
+{
+  "name": "react-router-apps",
+  "version": "1.0.0-c72b405c51c1c",
+  "description": "The React Router team\u0027s official skills for framework mode, data mode and declarative mode routing.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "react",
+    "react-router",
+    "remix",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "React Router apps",
+    "shortDescription": "The React Router team\u0027s official skills for framework mode, data mode and dec...",
+    "longDescription": "The React Router team\u0027s official skills for framework mode, data mode and declarative mode routing.",
+    "developerName": "PlaybookRun",
+    "category": "Frontend"
+  }
+}

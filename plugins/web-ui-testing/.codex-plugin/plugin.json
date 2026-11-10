@@ -1,0 +1,23 @@
+{
+  "name": "web-ui-testing",
+  "version": "1.0.0-c2d3bfd0d5682",
+  "description": "Anthropic\u0027s webapp-testing skill with Playwright and Chrome DevTools MCP servers: drive the app, check behaviour, capture screenshots and logs.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "playwright",
+    "testing",
+    "e2e",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Web UI testing",
+    "shortDescription": "Anthropic\u0027s webapp-testing skill with Playwright and Chrome DevTools MCP serv...",
+    "longDescription": "Anthropic\u0027s webapp-testing skill with Playwright and Chrome DevTools MCP servers: drive the app, check behaviour, capture screenshots and logs.",
+    "developerName": "PlaybookRun",
+    "category": "Testing"
+  }
+}
