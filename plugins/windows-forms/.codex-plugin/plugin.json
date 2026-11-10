@@ -1,0 +1,23 @@
+{
+  "name": "windows-forms",
+  "version": "1.0.0-c4fa47e111fa8",
+  "description": "The official Windows Forms skill: project setup, designer-friendly code, data binding, high DPI, accessibility and async UI on modern .NET.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "dotnet",
+    "winforms",
+    "desktop",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Windows Forms on modern .NET",
+    "shortDescription": "The official Windows Forms skill: project setup, designer-friendly code, data...",
+    "longDescription": "The official Windows Forms skill: project setup, designer-friendly code, data binding, high DPI, accessibility and async UI on modern .NET.",
+    "developerName": "PlaybookRun",
+    "category": "Desktop"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "dotnet-maui",
+  "version": "1.0.0-cbe905f4b2219",
+  "description": "Official .NET MAUI skills: environment doctor, Shell navigation, data binding, CollectionView, DI, theming, safe areas and lifecycle.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "dotnet",
+    "maui",
+    "mobile",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": ".NET MAUI apps",
+    "shortDescription": "Official .NET MAUI skills: environment doctor, Shell navigation, data binding...",
+    "longDescription": "Official .NET MAUI skills: environment doctor, Shell navigation, data binding, CollectionView, DI, theming, safe areas and lifecycle.",
+    "developerName": "PlaybookRun",
+    "category": "Mobile"
+  }
+}

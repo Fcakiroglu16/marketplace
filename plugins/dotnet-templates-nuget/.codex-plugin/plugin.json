@@ -1,0 +1,24 @@
+{
+  "name": "dotnet-templates-nuget",
+  "version": "1.0.0-cf33f29f78eb5",
+  "description": "Official skills for dotnet new templates (find, use, author, validate) and NuGet: central package management and trusted publishing.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "dotnet",
+    "nuget",
+    "templates",
+    "packages",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Templates and NuGet packages",
+    "shortDescription": "Official skills for dotnet new templates (find, use, author, validate) and Nu...",
+    "longDescription": "Official skills for dotnet new templates (find, use, author, validate) and NuGet: central package management and trusted publishing.",
+    "developerName": "PlaybookRun",
+    "category": "Tooling"
+  }
+}

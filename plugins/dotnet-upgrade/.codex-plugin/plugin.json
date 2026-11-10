@@ -1,0 +1,25 @@
+{
+  "name": "dotnet-upgrade",
+  "version": "1.0.0-c7abff47207e3",
+  "description": "Official skills to move .NET 8 to 9 to 10 to 11, adopt nullable references, check AOT compatibility and handle breaking changes.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "dotnet",
+    "upgrade",
+    "migration",
+    "nullable",
+    "aot",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": ".NET upgrade",
+    "shortDescription": "Official skills to move .NET 8 to 9 to 10 to 11, adopt nullable references, c...",
+    "longDescription": "Official skills to move .NET 8 to 9 to 10 to 11, adopt nullable references, check AOT compatibility and handle breaking changes.",
+    "developerName": "PlaybookRun",
+    "category": "Modernization"
+  }
+}

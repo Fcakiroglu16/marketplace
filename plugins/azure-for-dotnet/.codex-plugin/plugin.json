@@ -1,0 +1,23 @@
+{
+  "name": "azure-for-dotnet",
+  "version": "1.0.0-cdf8e7d38356d",
+  "description": "Official Azure skills with the Azure MCP server: prepare, validate and deploy an app, instrument it with App Insights and diagnose it.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "dotnet",
+    "azure",
+    "deployment",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Deploy .NET to Azure",
+    "shortDescription": "Official Azure skills with the Azure MCP server: prepare, validate and deploy...",
+    "longDescription": "Official Azure skills with the Azure MCP server: prepare, validate and deploy an app, instrument it with App Insights and diagnose it.",
+    "developerName": "PlaybookRun",
+    "category": "Cloud"
+  }
+}

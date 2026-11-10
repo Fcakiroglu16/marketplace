@@ -1,0 +1,16 @@
+{
+  "name": "dotnet-maui",
+  "displayName": ".NET MAUI apps",
+  "version": "1.0.0-cbe905f4b2219",
+  "description": "Official .NET MAUI skills: environment doctor, Shell navigation, data binding, CollectionView, DI, theming, safe areas and lifecycle.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "dotnet",
+    "maui",
+    "mobile",
+    "official"
+  ],
+  "category": "mobile"
+}

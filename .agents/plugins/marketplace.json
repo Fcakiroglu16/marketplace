@@ -15,6 +15,150 @@
         "authentication": "ON_INSTALL"
       },
       "category": "Backend"
+    },
+    {
+      "name": "blazor-web-apps",
+      "source": {
+        "source": "local",
+        "path": "./plugins/blazor-web-apps"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Frontend"
+    },
+    {
+      "name": "dotnet-testing",
+      "source": {
+        "source": "local",
+        "path": "./plugins/dotnet-testing"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Testing"
+    },
+    {
+      "name": "dotnet-test-migration",
+      "source": {
+        "source": "local",
+        "path": "./plugins/dotnet-test-migration"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Testing"
+    },
+    {
+      "name": "dotnet-upgrade",
+      "source": {
+        "source": "local",
+        "path": "./plugins/dotnet-upgrade"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Modernization"
+    },
+    {
+      "name": "msbuild-build-performance",
+      "source": {
+        "source": "local",
+        "path": "./plugins/msbuild-build-performance"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Build"
+    },
+    {
+      "name": "dotnet-performance-diagnostics",
+      "source": {
+        "source": "local",
+        "path": "./plugins/dotnet-performance-diagnostics"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Operations"
+    },
+    {
+      "name": "dotnet-maui",
+      "source": {
+        "source": "local",
+        "path": "./plugins/dotnet-maui"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Mobile"
+    },
+    {
+      "name": "dotnet-templates-nuget",
+      "source": {
+        "source": "local",
+        "path": "./plugins/dotnet-templates-nuget"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Tooling"
+    },
+    {
+      "name": "modern-csharp",
+      "source": {
+        "source": "local",
+        "path": "./plugins/modern-csharp"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Language"
+    },
+    {
+      "name": "dotnet-ai-apps",
+      "source": {
+        "source": "local",
+        "path": "./plugins/dotnet-ai-apps"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "AI"
+    },
+    {
+      "name": "windows-forms",
+      "source": {
+        "source": "local",
+        "path": "./plugins/windows-forms"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Desktop"
+    },
+    {
+      "name": "azure-for-dotnet",
+      "source": {
+        "source": "local",
+        "path": "./plugins/azure-for-dotnet"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Cloud"
     }
   ]
 }

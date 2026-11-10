@@ -1,0 +1,25 @@
+{
+  "name": "dotnet-performance-diagnostics",
+  "version": "1.0.0-ce01214d8c0a3",
+  "description": "Official skills to measure and investigate: BenchmarkDotNet, dotnet-trace, dumps, performance analysis and crash symbolication.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "dotnet",
+    "performance",
+    "diagnostics",
+    "debugging",
+    "benchmarks",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": ".NET performance and diagnostics",
+    "shortDescription": "Official skills to measure and investigate: BenchmarkDotNet, dotnet-trace, du...",
+    "longDescription": "Official skills to measure and investigate: BenchmarkDotNet, dotnet-trace, dumps, performance analysis and crash symbolication.",
+    "developerName": "PlaybookRun",
+    "category": "Operations"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "blazor-web-apps",
+  "displayName": "Blazor web apps",
+  "version": "1.0.0-c8f7a5596e8b9",
+  "description": "Official .NET skills for Blazor: create a project, author components, forms, auth, data, prerendering and JS interop.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "dotnet",
+    "blazor",
+    "aspnetcore",
+    "official"
+  ],
+  "category": "frontend"
+}

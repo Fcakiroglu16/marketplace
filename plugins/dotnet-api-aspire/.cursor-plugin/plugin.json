@@ -1,7 +1,7 @@
 {
   "name": "dotnet-api-aspire",
   "displayName": ".NET API with Aspire",
-  "version": "1.0.0-c1e49daae7a4b",
+  "version": "1.0.0-c08711ecddc04",
   "description": "Official .NET and Aspire skills: Web API, EF Core, tests, AppHost wiring, orchestration, monitoring and deployment.",
   "author": {
     "name": "PlaybookRun"

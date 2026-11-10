@@ -1,0 +1,24 @@
+{
+  "name": "dotnet-ai-apps",
+  "version": "1.0.0-c3df2c756c381",
+  "description": "Pick the right .NET AI stack (Microsoft.Extensions.AI, Agent Framework, MCP, RAG) with the official skill and current Learn docs.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "dotnet",
+    "ai",
+    "llm",
+    "agents",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": ".NET AI apps",
+    "shortDescription": "Pick the right .NET AI stack (Microsoft.Extensions.AI, Agent Framework, MCP, ...",
+    "longDescription": "Pick the right .NET AI stack (Microsoft.Extensions.AI, Agent Framework, MCP, RAG) with the official skill and current Learn docs.",
+    "developerName": "PlaybookRun",
+    "category": "AI"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "windows-forms",
+  "displayName": "Windows Forms on modern .NET",
+  "version": "1.0.0-c4fa47e111fa8",
+  "description": "The official Windows Forms skill: project setup, designer-friendly code, data binding, high DPI, accessibility and async UI on modern .NET.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "dotnet",
+    "winforms",
+    "desktop",
+    "official"
+  ],
+  "category": "desktop"
+}

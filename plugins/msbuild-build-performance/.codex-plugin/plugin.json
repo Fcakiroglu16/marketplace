@@ -1,0 +1,24 @@
+{
+  "name": "msbuild-build-performance",
+  "version": "1.0.0-c706d49299aa3",
+  "description": "Official MSBuild skills with the binlog MCP server: diagnose failures, speed up builds, fix incremental builds and clean up project files.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "dotnet",
+    "msbuild",
+    "build",
+    "performance",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "MSBuild and build performance",
+    "shortDescription": "Official MSBuild skills with the binlog MCP server: diagnose failures, speed ...",
+    "longDescription": "Official MSBuild skills with the binlog MCP server: diagnose failures, speed up builds, fix incremental builds and clean up project files.",
+    "developerName": "PlaybookRun",
+    "category": "Build"
+  }
+}

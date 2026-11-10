@@ -1,0 +1,16 @@
+{
+  "name": "modern-csharp",
+  "displayName": "Modern C#",
+  "version": "1.0.0-c363387fe74d3",
+  "description": "Official C# skills: expert guidance, safe refactoring, C# scripts, P/Invoke, SIMD vectorization and the new .NET 11 APIs.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "dotnet",
+    "csharp",
+    "refactoring",
+    "official"
+  ],
+  "category": "language"
+}

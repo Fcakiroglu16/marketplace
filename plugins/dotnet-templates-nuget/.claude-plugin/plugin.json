@@ -1,0 +1,15 @@
+{
+  "name": "dotnet-templates-nuget",
+  "version": "1.0.0-cf33f29f78eb5",
+  "description": "Official skills for dotnet new templates (find, use, author, validate) and NuGet: central package management and trusted publishing.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "dotnet",
+    "nuget",
+    "templates",
+    "packages",
+    "official"
+  ]
+}
