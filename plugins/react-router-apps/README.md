@@ -2,6 +2,8 @@
 
 The React Router team's official skills for framework mode, data mode and declarative mode routing.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/react-router-apps
+
 ## Install
 
 Claude Code:

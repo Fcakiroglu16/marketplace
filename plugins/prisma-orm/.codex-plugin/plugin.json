@@ -1,6 +1,6 @@
 {
   "name": "prisma-orm",
-  "version": "1.0.0-c43130941e499",
+  "version": "1.0.0-ca48a1d6c5eed",
   "description": "Prisma\u0027s official skills: set up Prisma ORM 6, 7 and 8 for any provider, the Client API, the CLI and the upgrade from v6 to v7.",
   "author": {
     "name": "PlaybookRun"

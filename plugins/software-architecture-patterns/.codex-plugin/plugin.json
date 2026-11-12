@@ -1,6 +1,6 @@
 {
   "name": "software-architecture-patterns",
-  "version": "1.0.0-c0c4569baa996",
+  "version": "1.0.0-ccb69befa4821",
   "description": "Clean, onion and hexagonal (ports and adapters) architecture, DDD, CQRS and architecture decision records for any language.",
   "author": {
     "name": "PlaybookRun"

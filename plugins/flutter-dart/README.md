@@ -2,6 +2,8 @@
 
 The Flutter and Dart teams' skills for architecture, responsive layout, layout errors, widget and integration tests, routing, JSON, localization and static analysis, with the Dart MCP server.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/flutter-dart
+
 ## Install
 
 Claude Code:

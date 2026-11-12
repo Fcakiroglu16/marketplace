@@ -2,6 +2,8 @@
 
 Pulumi's official skills: best practices, debugging failed `pulumi up` and preview runs, Pulumi ESC secrets and config, and migrating Terraform to Pulumi.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/pulumi-iac
+
 ## Install
 
 Claude Code:

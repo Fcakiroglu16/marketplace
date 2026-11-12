@@ -2,6 +2,8 @@
 
 Official .NET skills for Blazor: create a project, author components, forms, auth, data, prerendering and JS interop.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/blazor-web-apps
+
 ## Install
 
 Claude Code:

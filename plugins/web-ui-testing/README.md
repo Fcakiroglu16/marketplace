@@ -2,6 +2,8 @@
 
 Anthropic's webapp-testing skill with Playwright and Chrome DevTools MCP servers: drive the app, check behaviour, capture screenshots and logs.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/web-ui-testing
+
 ## Install
 
 Claude Code:

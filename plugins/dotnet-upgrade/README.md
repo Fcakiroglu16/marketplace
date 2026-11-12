@@ -2,6 +2,8 @@
 
 Official skills to move .NET 8 to 9 to 10 to 11, adopt nullable references, check AOT compatibility and handle breaking changes.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/dotnet-upgrade
+
 ## Install
 
 Claude Code:

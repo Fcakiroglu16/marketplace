@@ -2,6 +2,8 @@
 
 Choose and apply Vertical Slice, Clean Architecture, DDD or a modular monolith in ASP.NET Core, with aggregates, value objects, domain events and messaging.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/ddd-clean-architecture-dotnet
+
 ## Install
 
 Claude Code:

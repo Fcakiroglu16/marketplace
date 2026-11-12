@@ -2,6 +2,8 @@
 
 ClickHouse's official skills: review schemas, queries and settings against 31 rules and choose ingestion and modelling patterns, with the ClickHouse MCP server, read-only by default.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/clickhouse
+
 ## Install
 
 Claude Code:

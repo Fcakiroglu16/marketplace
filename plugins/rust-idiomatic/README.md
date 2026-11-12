@@ -2,6 +2,8 @@
 
 Idiomatic, safe and fast Rust: Apollo's Rust best-practices handbook and a 265-rule guide to ownership, errors, async, unsafe, API design and performance.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/rust-idiomatic
+
 ## Install
 
 Claude Code:

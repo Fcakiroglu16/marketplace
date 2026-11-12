@@ -2,6 +2,8 @@
 
 Secure-by-default code review, threat models grounded in your repository, GitHub Actions hardening and checks for secrets leaking through logs and serialization, with GitHub code-scanning alerts.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/appsec-review
+
 ## Install
 
 Claude Code:

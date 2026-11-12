@@ -2,6 +2,8 @@
 
 Build Next.js apps with Vercel's React rules and the Next.js DevTools MCP server, then inspect and optimize them on Vercel with the Vercel MCP server.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/nextjs-on-vercel
+
 ## Install
 
 Claude Code:

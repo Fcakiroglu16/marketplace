@@ -1,11 +1,12 @@
 {
   "name": "react-native-apps",
   "displayName": "React Native apps",
-  "version": "1.0.0-ce043fb25feb0",
+  "version": "1.0.0-cc2bfcc1c24ec",
   "description": "Vercel\u0027s official React Native skill: performance, lists, animations, navigation and native modules in React Native and Expo apps.",
   "author": {
     "name": "PlaybookRun"
   },
+  "homepage": "https://playbookrun.com/p/react-native-apps",
   "keywords": [
     "react-native",
     "expo",

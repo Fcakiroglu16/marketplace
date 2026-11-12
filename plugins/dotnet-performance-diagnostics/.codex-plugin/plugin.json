@@ -1,6 +1,6 @@
 {
   "name": "dotnet-performance-diagnostics",
-  "version": "1.0.0-ce01214d8c0a3",
+  "version": "1.0.0-c3561e0444ba2",
   "description": "Official skills to measure and investigate: BenchmarkDotNet, dotnet-trace, dumps, performance analysis and crash symbolication.",
   "author": {
     "name": "PlaybookRun"

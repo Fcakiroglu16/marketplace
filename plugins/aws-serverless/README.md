@@ -2,6 +2,8 @@
 
 AWS's own skills to design and build Lambda, API Gateway and Step Functions and to estimate cost before a deploy, with the AWS Knowledge, IaC, Pricing and Serverless MCP servers.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/aws-serverless
+
 ## Install
 
 Claude Code:

@@ -1,10 +1,11 @@
 {
   "name": "terraform-iac",
-  "version": "1.0.0-c3f082e403e2c",
+  "version": "1.0.0-cfff3438272d4",
   "description": "HashiCorp\u0027s official skills to write, test and refactor Terraform in HashiCorp style, with live provider and module docs from the Terraform MCP server.",
   "author": {
     "name": "PlaybookRun"
   },
+  "homepage": "https://playbookrun.com/p/terraform-iac",
   "keywords": [
     "terraform",
     "hcl",

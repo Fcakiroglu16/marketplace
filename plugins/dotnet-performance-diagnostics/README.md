@@ -2,6 +2,8 @@
 
 Official skills to measure and investigate: BenchmarkDotNet, dotnet-trace, dumps, performance analysis and crash symbolication.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/dotnet-performance-diagnostics
+
 ## Install
 
 Claude Code:

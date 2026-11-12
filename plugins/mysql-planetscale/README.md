@@ -2,6 +2,8 @@
 
 PlanetScale's skills for MySQL schema design, indexing and query tuning, and for Vitess sharding, keyspaces and online schema changes.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/mysql-planetscale
+
 ## Install
 
 Claude Code:

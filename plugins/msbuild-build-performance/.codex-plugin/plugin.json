@@ -1,6 +1,6 @@
 {
   "name": "msbuild-build-performance",
-  "version": "1.0.0-c706d49299aa3",
+  "version": "1.0.0-c5a7faa823e59",
   "description": "Official MSBuild skills with the binlog MCP server: diagnose failures, speed up builds, fix incremental builds and clean up project files.",
   "author": {
     "name": "PlaybookRun"

@@ -1,6 +1,6 @@
 {
   "name": "google-cloud-gke",
-  "version": "1.0.0-cd227db6965e0",
+  "version": "1.0.0-cc6ff7ceeb655",
   "description": "Google\u0027s official skills to use gcloud safely, troubleshoot GKE workloads, write secure Kubernetes manifests and Cloud Logging queries, with the gcloud MCP server.",
   "author": {
     "name": "PlaybookRun"

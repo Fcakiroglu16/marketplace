@@ -2,6 +2,8 @@
 
 Clean, onion and hexagonal (ports and adapters) architecture, DDD, CQRS and architecture decision records for any language.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/software-architecture-patterns
+
 ## Install
 
 Claude Code:

@@ -2,6 +2,8 @@
 
 The Angular team's official skills and CLI MCP server: new apps with current defaults, signals, forms, routing, SSR, testing and CLI.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/angular-apps
+
 ## Install
 
 Claude Code:

@@ -1,6 +1,6 @@
 {
   "name": "nuxt",
-  "version": "1.0.0-c603ee21ff195",
+  "version": "1.0.0-cc74ce5cd1088",
   "description": "Nuxt 4 apps (SSR, data fetching, server routes, Nitro deploy presets) and Nuxt UI v4 components, with the official Nuxt and Nuxt UI documentation MCP servers.",
   "author": {
     "name": "PlaybookRun"

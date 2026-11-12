@@ -2,6 +2,8 @@
 
 Create, test and ship Quarkus apps with Dev Services, native images and containers, migrate Spring Boot to Quarkus and keep versions current, with the official Quarkus agent MCP.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/quarkus
+
 ## Install
 
 Claude Code:

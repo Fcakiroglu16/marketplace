@@ -2,6 +2,8 @@
 
 The Deno team's skills: project config, npm and JSR dependencies, permissions, Fresh 2 frontends and moving Node or Bun projects to Deno.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/deno
+
 ## Install
 
 Claude Code:

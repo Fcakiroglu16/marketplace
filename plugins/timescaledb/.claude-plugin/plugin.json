@@ -1,10 +1,11 @@
 {
   "name": "timescaledb",
-  "version": "1.0.0-c7e2b37e9b58c",
+  "version": "1.0.0-ce1f113555065",
   "description": "Tiger Data\u0027s skills for time-series Postgres: find tables that should be hypertables, set them up, migrate existing tables and query with hyperfunctions.",
   "author": {
     "name": "PlaybookRun"
   },
+  "homepage": "https://playbookrun.com/p/timescaledb",
   "keywords": [
     "timescaledb",
     "postgres",

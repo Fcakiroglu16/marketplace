@@ -1,11 +1,12 @@
 {
   "name": "frontend-design",
   "displayName": "Frontend design and UI polish",
-  "version": "1.0.0-c7d26e937c59a",
+  "version": "1.0.0-c0024f86e18ac",
   "description": "Anthropic\u0027s frontend-design skill with Vercel\u0027s web interface guidelines, Figma\u0027s MCP server for designs and Chrome DevTools for review.",
   "author": {
     "name": "PlaybookRun"
   },
+  "homepage": "https://playbookrun.com/p/frontend-design",
   "keywords": [
     "design",
     "ui",

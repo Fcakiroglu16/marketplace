@@ -1,0 +1,23 @@
+{
+  "name": "find-playbooks",
+  "version": "1.0.0-c5f4f50a1f76a",
+  "description": "Lets your agent search PlaybookRun for a reviewed playbook that fits the task and gives the install command for your tool.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "playbookrun",
+    "discovery",
+    "skills",
+    "mcp",
+    "search"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Find playbooks",
+    "shortDescription": "Lets your agent search PlaybookRun for a reviewed playbook that fits the task...",
+    "longDescription": "Lets your agent search PlaybookRun for a reviewed playbook that fits the task and gives the install command for your tool.",
+    "developerName": "PlaybookRun",
+    "category": "Tooling"
+  }
+}

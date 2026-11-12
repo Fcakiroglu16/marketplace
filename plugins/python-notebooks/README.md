@@ -2,6 +2,8 @@
 
 Create and edit clean Jupyter notebooks, write marimo reactive notebooks or convert Jupyter ones to marimo, and work in a running Jupyter server through the Jupyter MCP server.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/python-notebooks
+
 ## Install
 
 Claude Code:

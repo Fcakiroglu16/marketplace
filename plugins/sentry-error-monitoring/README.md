@@ -2,6 +2,8 @@
 
 Sentry's official skills to find, root-cause and fix production errors, set up releases and source maps and instrument apps, with the Sentry MCP server.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/sentry-error-monitoring
+
 ## Install
 
 Claude Code:

@@ -2,6 +2,8 @@
 
 Event sourcing, projections, sagas and microservice boundaries for distributed systems.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/event-driven-architecture
+
 ## Install
 
 Claude Code:

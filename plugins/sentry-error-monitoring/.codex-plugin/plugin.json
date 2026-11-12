@@ -1,6 +1,6 @@
 {
   "name": "sentry-error-monitoring",
-  "version": "1.0.0-c9fc0456ea1b8",
+  "version": "1.0.0-c24d300088cf7",
   "description": "Sentry\u0027s official skills to find, root-cause and fix production errors, set up releases and source maps and instrument apps, with the Sentry MCP server.",
   "author": {
     "name": "PlaybookRun"

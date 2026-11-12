@@ -2,6 +2,8 @@
 
 Prisma's official skills: set up Prisma ORM 6, 7 and 8 for any provider, the Client API, the CLI and the upgrade from v6 to v7.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/prisma-orm
+
 ## Install
 
 Claude Code:

@@ -1,6 +1,6 @@
 {
   "name": "ddd-clean-architecture-dotnet",
-  "version": "1.0.0-ccceb7bb9965d",
+  "version": "1.0.0-c71795e0666a7",
   "description": "Choose and apply Vertical Slice, Clean Architecture, DDD or a modular monolith in ASP.NET Core, with aggregates, value objects, domain events and messaging.",
   "author": {
     "name": "PlaybookRun"

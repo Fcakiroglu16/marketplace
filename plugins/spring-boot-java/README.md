@@ -2,6 +2,8 @@
 
 Build, test, secure and observe Spring Boot 3 and 4 services, migrate 3.x to 4 and scaffold new projects, with Context7 for current Spring docs.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/spring-boot-java
+
 ## Install
 
 Claude Code:

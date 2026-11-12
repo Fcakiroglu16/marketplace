@@ -2,6 +2,8 @@
 
 Docker's official skills to containerize a project, write lean multi-stage Dockerfiles and Compose stacks, and confirm before any destructive Docker command, with the Docker docs MCP.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/docker-containers
+
 ## Install
 
 Claude Code:

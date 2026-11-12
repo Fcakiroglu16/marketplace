@@ -2,6 +2,8 @@
 
 Vue 3 with the Composition API, `<script setup>` and TypeScript, Vue Router 4, Pinia stores, Vitest and Vue Test Utils tests, and debugging guides for hydration and runtime errors.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/vue
+
 ## Install
 
 Claude Code:

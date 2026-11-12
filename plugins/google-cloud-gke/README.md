@@ -2,6 +2,8 @@
 
 Google's official skills to use gcloud safely, troubleshoot GKE workloads, write secure Kubernetes manifests and Cloud Logging queries, with the gcloud MCP server.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/google-cloud-gke
+
 ## Install
 
 Claude Code:

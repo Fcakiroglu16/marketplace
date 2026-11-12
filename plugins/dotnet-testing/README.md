@@ -2,6 +2,8 @@
 
 Official .NET skills to run, write and improve tests: filters, MSTest, coverage, gap analysis, test smells and testability.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/dotnet-testing
+
 ## Install
 
 Claude Code:

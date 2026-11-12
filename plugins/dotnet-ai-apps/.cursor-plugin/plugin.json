@@ -1,11 +1,12 @@
 {
   "name": "dotnet-ai-apps",
   "displayName": ".NET AI apps",
-  "version": "1.0.0-c3df2c756c381",
+  "version": "1.0.0-c178a0aaa019e",
   "description": "Pick the right .NET AI stack (Microsoft.Extensions.AI, Agent Framework, MCP, RAG) with the official skill and current Learn docs.",
   "author": {
     "name": "PlaybookRun"
   },
+  "homepage": "https://playbookrun.com/p/dotnet-ai-apps",
   "keywords": [
     "dotnet",
     "ai",

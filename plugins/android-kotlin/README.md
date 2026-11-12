@@ -2,6 +2,8 @@
 
 Google's official Android skills (Compose performance, XML to Compose, adaptive UI, Navigation 3, edge-to-edge, testing, AGP 9, ANRs, intent security) plus JetBrains' Kotlin skills.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/android-kotlin
+
 ## Install
 
 Claude Code:

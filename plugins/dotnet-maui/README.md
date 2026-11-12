@@ -2,6 +2,8 @@
 
 Official .NET MAUI skills: environment doctor, Shell navigation, data binding, CollectionView, DI, theming, safe areas and lifecycle.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/dotnet-maui
+
 ## Install
 
 Claude Code:

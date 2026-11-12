@@ -2,6 +2,8 @@
 
 The official Windows Forms skill: project setup, designer-friendly code, data binding, high DPI, accessibility and async UI on modern .NET.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/windows-forms
+
 ## Install
 
 Claude Code:

@@ -2,6 +2,8 @@
 
 The Svelte team's official skills and MCP server: Svelte 5 runes, best practices and an autofixer for generated components.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/svelte-apps
+
 ## Install
 
 Claude Code:

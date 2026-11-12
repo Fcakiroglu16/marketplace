@@ -1,0 +1,16 @@
+{
+  "name": "find-playbooks",
+  "version": "1.0.0-c5f4f50a1f76a",
+  "description": "Lets your agent search PlaybookRun for a reviewed playbook that fits the task and gives the install command for your tool.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "homepage": "https://playbookrun.com/p/find-playbooks",
+  "keywords": [
+    "playbookrun",
+    "discovery",
+    "skills",
+    "mcp",
+    "search"
+  ]
+}

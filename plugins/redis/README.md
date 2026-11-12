@@ -2,6 +2,8 @@
 
 Redis's official skills for data modelling, connections and pipelining, Redis Search and vectors, clustering, security and observability, with the Redis MCP server.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/redis
+
 ## Install
 
 Claude Code:

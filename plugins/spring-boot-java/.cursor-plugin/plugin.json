@@ -1,11 +1,12 @@
 {
   "name": "spring-boot-java",
   "displayName": "Spring Boot (Java)",
-  "version": "1.0.0-c26a6d72a559a",
+  "version": "1.0.0-c3d0daed12036",
   "description": "Build, test, secure and observe Spring Boot 3 and 4 services, migrate 3.x to 4 and scaffold new projects, with Context7 for current Spring docs.",
   "author": {
     "name": "PlaybookRun"
   },
+  "homepage": "https://playbookrun.com/p/spring-boot-java",
   "keywords": [
     "java",
     "spring-boot",

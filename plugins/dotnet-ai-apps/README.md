@@ -2,6 +2,8 @@
 
 Pick the right .NET AI stack (Microsoft.Extensions.AI, Agent Framework, MCP, RAG) with the official skill and current Learn docs.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/dotnet-ai-apps
+
 ## Install
 
 Claude Code:

@@ -2,6 +2,8 @@
 
 Build on Supabase (database, auth, RLS, Edge Functions, Realtime, Storage, CLI) with Supabase's own skills and the Supabase MCP server in read-only mode.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/supabase
+
 ## Install
 
 Claude Code:

@@ -2,6 +2,8 @@
 
 Schema design, indexing, query tuning, zero-downtime migrations, schema exploration and pgvector search for any PostgreSQL database, from Supabase and Tiger Data.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/postgres-best-practices
+
 ## Install
 
 Claude Code:

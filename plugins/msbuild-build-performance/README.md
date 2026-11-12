@@ -2,6 +2,8 @@
 
 Official MSBuild skills with the binlog MCP server: diagnose failures, speed up builds, fix incremental builds and clean up project files.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/msbuild-build-performance
+
 ## Install
 
 Claude Code:

@@ -1,11 +1,12 @@
 {
   "name": "vue",
   "displayName": "Vue 3",
-  "version": "1.0.0-cee7b42b3f0b4",
+  "version": "1.0.0-cfa1ce6ed5691",
   "description": "Vue 3 with the Composition API, \u0060\u003Cscript setup\u003E\u0060 and TypeScript, Vue Router 4, Pinia stores, Vitest and Vue Test Utils tests, and debugging guides for hydration and runtime errors.",
   "author": {
     "name": "PlaybookRun"
   },
+  "homepage": "https://playbookrun.com/p/vue",
   "keywords": [
     "vue",
     "composition-api",

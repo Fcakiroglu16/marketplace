@@ -1,11 +1,12 @@
 {
   "name": "rust-idiomatic",
   "displayName": "Idiomatic Rust",
-  "version": "1.0.0-c73659c6c5ec3",
+  "version": "1.0.0-c7dafac5d69d2",
   "description": "Idiomatic, safe and fast Rust: Apollo\u0027s Rust best-practices handbook and a 265-rule guide to ownership, errors, async, unsafe, API design and performance.",
   "author": {
     "name": "PlaybookRun"
   },
+  "homepage": "https://playbookrun.com/p/rust-idiomatic",
   "keywords": [
     "rust",
     "cargo",

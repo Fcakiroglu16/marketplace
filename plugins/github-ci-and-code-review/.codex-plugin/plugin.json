@@ -1,6 +1,6 @@
 {
   "name": "github-ci-and-code-review",
-  "version": "1.0.0-cd3942c76524d",
+  "version": "1.0.0-c761208807f4e",
   "description": "Fix failing GitHub Actions checks, work through PR review comments, cut CI minutes, review branches for bugs and write conventional commits, with the read-only GitHub MCP server.",
   "author": {
     "name": "PlaybookRun"

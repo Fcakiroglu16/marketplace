@@ -2,6 +2,8 @@
 
 Official Azure skills with the Azure MCP server: prepare, validate and deploy an app, instrument it with App Insights and diagnose it.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/azure-for-dotnet
+
 ## Install
 
 Claude Code:

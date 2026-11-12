@@ -2,6 +2,8 @@
 
 Official C# skills: expert guidance, safe refactoring, C# scripts, P/Invoke, SIMD vectorization and the new .NET 11 APIs.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/modern-csharp
+
 ## Install
 
 Claude Code:

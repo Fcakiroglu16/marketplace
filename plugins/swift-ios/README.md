@@ -2,6 +2,8 @@
 
 Paul Hudson's SwiftUI, SwiftData, Swift Testing and Swift Concurrency skills, plus MobileBuildMCP to build, run, test and debug on simulators.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/swift-ios
+
 ## Install
 
 Claude Code:

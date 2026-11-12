@@ -1,11 +1,12 @@
 {
   "name": "redis",
   "displayName": "Redis",
-  "version": "1.0.0-c0071d8784162",
+  "version": "1.0.0-ccbccb1ac6079",
   "description": "Redis\u0027s official skills for data modelling, connections and pipelining, Redis Search and vectors, clustering, security and observability, with the Redis MCP server.",
   "author": {
     "name": "PlaybookRun"
   },
+  "homepage": "https://playbookrun.com/p/redis",
   "keywords": [
     "redis",
     "cache",

@@ -2,6 +2,8 @@
 
 Nuxt 4 apps (SSR, data fetching, server routes, Nitro deploy presets) and Nuxt UI v4 components, with the official Nuxt and Nuxt UI documentation MCP servers.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/nuxt
+
 ## Install
 
 Claude Code:

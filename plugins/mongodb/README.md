@@ -2,6 +2,8 @@
 
 MongoDB's official skills for schema design, query and index tuning, connection pools and read-only natural-language queries, with the MongoDB MCP server in read-only mode.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/mongodb
+
 ## Install
 
 Claude Code:

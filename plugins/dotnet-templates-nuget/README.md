@@ -2,6 +2,8 @@
 
 Official skills for dotnet new templates (find, use, author, validate) and NuGet: central package management and trusted publishing.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/dotnet-templates-nuget
+
 ## Install
 
 Claude Code:

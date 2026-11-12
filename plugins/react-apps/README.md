@@ -2,6 +2,8 @@
 
 Vercel's official React skills: performance rules, component composition and view transitions, with shadcn/ui components and Chrome DevTools.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/react-apps
+
 ## Install
 
 Claude Code:

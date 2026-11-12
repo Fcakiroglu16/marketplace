@@ -20,7 +20,21 @@
         "official"
       ],
       "source": "./plugins/dotnet-api-aspire",
-      "version": "1.0.0-c08711ecddc04"
+      "version": "1.0.0-c468303057871"
+    },
+    {
+      "name": "find-playbooks",
+      "description": "Lets your agent search PlaybookRun for a reviewed playbook that fits the task and gives the install command for your tool.",
+      "category": "Tooling",
+      "keywords": [
+        "playbookrun",
+        "discovery",
+        "skills",
+        "mcp",
+        "search"
+      ],
+      "source": "./plugins/find-playbooks",
+      "version": "1.0.0-c5f4f50a1f76a"
     },
     {
       "name": "blazor-web-apps",
@@ -33,7 +47,7 @@
         "official"
       ],
       "source": "./plugins/blazor-web-apps",
-      "version": "1.0.0-c8f7a5596e8b9"
+      "version": "1.0.0-c5281d919863a"
     },
     {
       "name": "dotnet-testing",
@@ -48,7 +62,7 @@
         "official"
       ],
       "source": "./plugins/dotnet-testing",
-      "version": "1.0.0-cb47902b690c7"
+      "version": "1.0.0-cdef715ffe3d3"
     },
     {
       "name": "dotnet-test-migration",
@@ -64,7 +78,7 @@
         "official"
       ],
       "source": "./plugins/dotnet-test-migration",
-      "version": "1.0.0-c4b0c3fda6abe"
+      "version": "1.0.0-ce70c1b799bc0"
     },
     {
       "name": "dotnet-upgrade",
@@ -79,7 +93,7 @@
         "official"
       ],
       "source": "./plugins/dotnet-upgrade",
-      "version": "1.0.0-c7abff47207e3"
+      "version": "1.0.0-caa48722cb7ed"
     },
     {
       "name": "msbuild-build-performance",
@@ -93,7 +107,7 @@
         "official"
       ],
       "source": "./plugins/msbuild-build-performance",
-      "version": "1.0.0-c706d49299aa3"
+      "version": "1.0.0-c5a7faa823e59"
     },
     {
       "name": "dotnet-performance-diagnostics",
@@ -108,7 +122,7 @@
         "official"
       ],
       "source": "./plugins/dotnet-performance-diagnostics",
-      "version": "1.0.0-ce01214d8c0a3"
+      "version": "1.0.0-c3561e0444ba2"
     },
     {
       "name": "dotnet-maui",
@@ -121,7 +135,7 @@
         "official"
       ],
       "source": "./plugins/dotnet-maui",
-      "version": "1.0.0-cbe905f4b2219"
+      "version": "1.0.0-c38412df3c85f"
     },
     {
       "name": "dotnet-templates-nuget",
@@ -135,7 +149,7 @@
         "official"
       ],
       "source": "./plugins/dotnet-templates-nuget",
-      "version": "1.0.0-cf33f29f78eb5"
+      "version": "1.0.0-cf5ce7613c070"
     },
     {
       "name": "modern-csharp",
@@ -148,7 +162,7 @@
         "official"
       ],
       "source": "./plugins/modern-csharp",
-      "version": "1.0.0-c363387fe74d3"
+      "version": "1.0.0-ccd82653020c0"
     },
     {
       "name": "dotnet-ai-apps",
@@ -162,7 +176,7 @@
         "official"
       ],
       "source": "./plugins/dotnet-ai-apps",
-      "version": "1.0.0-c3df2c756c381"
+      "version": "1.0.0-c178a0aaa019e"
     },
     {
       "name": "windows-forms",
@@ -175,7 +189,7 @@
         "official"
       ],
       "source": "./plugins/windows-forms",
-      "version": "1.0.0-c4fa47e111fa8"
+      "version": "1.0.0-cce526bd10dea"
     },
     {
       "name": "azure-for-dotnet",
@@ -188,7 +202,7 @@
         "official"
       ],
       "source": "./plugins/azure-for-dotnet",
-      "version": "1.0.0-cdf8e7d38356d"
+      "version": "1.0.0-cbc9036f82f29"
     },
     {
       "name": "angular-apps",
@@ -201,7 +215,7 @@
         "official"
       ],
       "source": "./plugins/angular-apps",
-      "version": "1.0.0-c79291d44884c"
+      "version": "1.0.0-c1cb39c8ccf43"
     },
     {
       "name": "react-apps",
@@ -214,7 +228,7 @@
         "official"
       ],
       "source": "./plugins/react-apps",
-      "version": "1.0.0-c3e4a1befe488"
+      "version": "1.0.0-c87840c08e945"
     },
     {
       "name": "nextjs-on-vercel",
@@ -228,7 +242,7 @@
         "official"
       ],
       "source": "./plugins/nextjs-on-vercel",
-      "version": "1.0.0-cae8b3ebd1c25"
+      "version": "1.0.0-c500aa5b3b0a6"
     },
     {
       "name": "react-router-apps",
@@ -241,7 +255,7 @@
         "official"
       ],
       "source": "./plugins/react-router-apps",
-      "version": "1.0.0-c72b405c51c1c"
+      "version": "1.0.0-cd9997c788724"
     },
     {
       "name": "svelte-apps",
@@ -253,7 +267,7 @@
         "official"
       ],
       "source": "./plugins/svelte-apps",
-      "version": "1.0.0-c0f129159635b"
+      "version": "1.0.0-c44f1e76295d7"
     },
     {
       "name": "react-native-apps",
@@ -266,7 +280,7 @@
         "official"
       ],
       "source": "./plugins/react-native-apps",
-      "version": "1.0.0-ce043fb25feb0"
+      "version": "1.0.0-cc2bfcc1c24ec"
     },
     {
       "name": "frontend-design",
@@ -280,7 +294,7 @@
         "official"
       ],
       "source": "./plugins/frontend-design",
-      "version": "1.0.0-c7d26e937c59a"
+      "version": "1.0.0-c0024f86e18ac"
     },
     {
       "name": "web-ui-testing",
@@ -293,7 +307,7 @@
         "official"
       ],
       "source": "./plugins/web-ui-testing",
-      "version": "1.0.0-c2d3bfd0d5682"
+      "version": "1.0.0-c60e66dd5ba03"
     },
     {
       "name": "spring-boot-java",
@@ -308,7 +322,7 @@
         "junit"
       ],
       "source": "./plugins/spring-boot-java",
-      "version": "1.0.0-c26a6d72a559a"
+      "version": "1.0.0-c3d0daed12036"
     },
     {
       "name": "java-jvm-toolkit",
@@ -323,7 +337,7 @@
         "diagnostics"
       ],
       "source": "./plugins/java-jvm-toolkit",
-      "version": "1.0.0-c27b22a91ef1b"
+      "version": "1.0.0-c74d8bf61a9ec"
     },
     {
       "name": "quarkus",
@@ -338,7 +352,7 @@
         "migration"
       ],
       "source": "./plugins/quarkus",
-      "version": "1.0.0-c71e724780eec"
+      "version": "1.0.0-c91a58ab18088"
     },
     {
       "name": "android-kotlin",
@@ -353,7 +367,7 @@
         "official"
       ],
       "source": "./plugins/android-kotlin",
-      "version": "1.0.0-c20befbec15b0"
+      "version": "1.0.0-c6416e4a2f8bb"
     },
     {
       "name": "go-modern",
@@ -368,7 +382,7 @@
         "golangci-lint"
       ],
       "source": "./plugins/go-modern",
-      "version": "1.0.0-c63dde380640a"
+      "version": "1.0.0-cbed3034fc083"
     },
     {
       "name": "rust-idiomatic",
@@ -382,7 +396,7 @@
         "performance"
       ],
       "source": "./plugins/rust-idiomatic",
-      "version": "1.0.0-c73659c6c5ec3"
+      "version": "1.0.0-c7dafac5d69d2"
     },
     {
       "name": "node-typescript-backend",
@@ -396,7 +410,7 @@
         "eslint"
       ],
       "source": "./plugins/node-typescript-backend",
-      "version": "1.0.0-ce603b5f20466"
+      "version": "1.0.0-c21eb0b03c177"
     },
     {
       "name": "vue",
@@ -410,7 +424,7 @@
         "vitest"
       ],
       "source": "./plugins/vue",
-      "version": "1.0.0-cee7b42b3f0b4"
+      "version": "1.0.0-cfa1ce6ed5691"
     },
     {
       "name": "nuxt",
@@ -424,7 +438,7 @@
         "ssr"
       ],
       "source": "./plugins/nuxt",
-      "version": "1.0.0-c603ee21ff195"
+      "version": "1.0.0-cc74ce5cd1088"
     },
     {
       "name": "deno",
@@ -438,7 +452,7 @@
         "official"
       ],
       "source": "./plugins/deno",
-      "version": "1.0.0-cc38c23a943d4"
+      "version": "1.0.0-c43381330fbd6"
     },
     {
       "name": "python-fastapi",
@@ -454,7 +468,7 @@
         "official"
       ],
       "source": "./plugins/python-fastapi",
-      "version": "1.0.0-ce452ce87ea38"
+      "version": "1.0.0-cc38fcbfffba7"
     },
     {
       "name": "python-notebooks",
@@ -468,7 +482,7 @@
         "data"
       ],
       "source": "./plugins/python-notebooks",
-      "version": "1.0.0-c6f769b3372f4"
+      "version": "1.0.0-c535c59ee4b48"
     },
     {
       "name": "flutter-dart",
@@ -482,7 +496,7 @@
         "official"
       ],
       "source": "./plugins/flutter-dart",
-      "version": "1.0.0-c93a3907d6bb1"
+      "version": "1.0.0-ce36c5d351cc8"
     },
     {
       "name": "swift-ios",
@@ -497,7 +511,7 @@
         "xcode"
       ],
       "source": "./plugins/swift-ios",
-      "version": "1.0.0-cc0f4a7ef2668"
+      "version": "1.0.0-cd702d267da89"
     },
     {
       "name": "postgres-best-practices",
@@ -512,7 +526,7 @@
         "pgvector"
       ],
       "source": "./plugins/postgres-best-practices",
-      "version": "1.0.0-c5f9021298b27"
+      "version": "1.0.0-cc805dd2ab27e"
     },
     {
       "name": "timescaledb",
@@ -526,7 +540,7 @@
         "analytics"
       ],
       "source": "./plugins/timescaledb",
-      "version": "1.0.0-c7e2b37e9b58c"
+      "version": "1.0.0-ce1f113555065"
     },
     {
       "name": "supabase",
@@ -541,7 +555,7 @@
         "official"
       ],
       "source": "./plugins/supabase",
-      "version": "1.0.0-c308c06013ba3"
+      "version": "1.0.0-c642a14c14a86"
     },
     {
       "name": "mongodb",
@@ -556,7 +570,7 @@
         "official"
       ],
       "source": "./plugins/mongodb",
-      "version": "1.0.0-c7058c4e1ca30"
+      "version": "1.0.0-c81d1b632f165"
     },
     {
       "name": "redis",
@@ -570,7 +584,7 @@
         "official"
       ],
       "source": "./plugins/redis",
-      "version": "1.0.0-c0071d8784162"
+      "version": "1.0.0-ccbccb1ac6079"
     },
     {
       "name": "mysql-planetscale",
@@ -584,7 +598,7 @@
         "indexing"
       ],
       "source": "./plugins/mysql-planetscale",
-      "version": "1.0.0-c69cea50129ad"
+      "version": "1.0.0-c0913ded8b80c"
     },
     {
       "name": "prisma-orm",
@@ -598,7 +612,7 @@
         "official"
       ],
       "source": "./plugins/prisma-orm",
-      "version": "1.0.0-c43130941e499"
+      "version": "1.0.0-ca48a1d6c5eed"
     },
     {
       "name": "clickhouse",
@@ -612,7 +626,7 @@
         "official"
       ],
       "source": "./plugins/clickhouse",
-      "version": "1.0.0-c37677f428019"
+      "version": "1.0.0-c41ce74e54658"
     },
     {
       "name": "elasticsearch",
@@ -626,7 +640,7 @@
         "official"
       ],
       "source": "./plugins/elasticsearch",
-      "version": "1.0.0-c48d34fcfa454"
+      "version": "1.0.0-c42bba4938795"
     },
     {
       "name": "dbt-analytics-engineering",
@@ -641,7 +655,7 @@
         "official"
       ],
       "source": "./plugins/dbt-analytics-engineering",
-      "version": "1.0.0-c86dfb75b7a54"
+      "version": "1.0.0-c9b995c20b95d"
     },
     {
       "name": "terraform-iac",
@@ -656,7 +670,7 @@
         "official"
       ],
       "source": "./plugins/terraform-iac",
-      "version": "1.0.0-c3f082e403e2c"
+      "version": "1.0.0-cfff3438272d4"
     },
     {
       "name": "pulumi-iac",
@@ -671,7 +685,7 @@
         "official"
       ],
       "source": "./plugins/pulumi-iac",
-      "version": "1.0.0-ce8175ab763bd"
+      "version": "1.0.0-c4453241e865f"
     },
     {
       "name": "docker-containers",
@@ -686,7 +700,7 @@
         "official"
       ],
       "source": "./plugins/docker-containers",
-      "version": "1.0.0-c99b2013eaaca"
+      "version": "1.0.0-c9f56403526ec"
     },
     {
       "name": "github-ci-and-code-review",
@@ -701,7 +715,7 @@
         "git"
       ],
       "source": "./plugins/github-ci-and-code-review",
-      "version": "1.0.0-cd3942c76524d"
+      "version": "1.0.0-c761208807f4e"
     },
     {
       "name": "appsec-review",
@@ -716,7 +730,7 @@
         "supply-chain"
       ],
       "source": "./plugins/appsec-review",
-      "version": "1.0.0-cc55e7f53e327"
+      "version": "1.0.0-ca8b3b449d628"
     },
     {
       "name": "sentry-error-monitoring",
@@ -731,7 +745,7 @@
         "official"
       ],
       "source": "./plugins/sentry-error-monitoring",
-      "version": "1.0.0-c9fc0456ea1b8"
+      "version": "1.0.0-c24d300088cf7"
     },
     {
       "name": "grafana-observability",
@@ -746,7 +760,7 @@
         "incident-response"
       ],
       "source": "./plugins/grafana-observability",
-      "version": "1.0.0-c514bd67293af"
+      "version": "1.0.0-c25dce06f8be8"
     },
     {
       "name": "k6-load-testing",
@@ -761,7 +775,7 @@
         "official"
       ],
       "source": "./plugins/k6-load-testing",
-      "version": "1.0.0-c9aaec7e4fde4"
+      "version": "1.0.0-cb85b14a13c43"
     },
     {
       "name": "aws-serverless",
@@ -776,7 +790,7 @@
         "official"
       ],
       "source": "./plugins/aws-serverless",
-      "version": "1.0.0-c857970215589"
+      "version": "1.0.0-c10dee2c7979e"
     },
     {
       "name": "google-cloud-gke",
@@ -791,7 +805,7 @@
         "official"
       ],
       "source": "./plugins/google-cloud-gke",
-      "version": "1.0.0-cd227db6965e0"
+      "version": "1.0.0-cc6ff7ceeb655"
     },
     {
       "name": "cloudflare-workers",
@@ -806,7 +820,7 @@
         "official"
       ],
       "source": "./plugins/cloudflare-workers",
-      "version": "1.0.0-c5c6c550f73cf"
+      "version": "1.0.0-c391fa8d7abeb"
     },
     {
       "name": "ddd-clean-architecture-dotnet",
@@ -822,7 +836,7 @@
         "cqrs"
       ],
       "source": "./plugins/ddd-clean-architecture-dotnet",
-      "version": "1.0.0-ccceb7bb9965d"
+      "version": "1.0.0-c71795e0666a7"
     },
     {
       "name": "software-architecture-patterns",
@@ -838,7 +852,7 @@
         "adr"
       ],
       "source": "./plugins/software-architecture-patterns",
-      "version": "1.0.0-c0c4569baa996"
+      "version": "1.0.0-ccb69befa4821"
     },
     {
       "name": "event-driven-architecture",
@@ -852,7 +866,7 @@
         "distributed-systems"
       ],
       "source": "./plugins/event-driven-architecture",
-      "version": "1.0.0-cc89b49497ef6"
+      "version": "1.0.0-cad50c8a96cd4"
     }
   ]
 }

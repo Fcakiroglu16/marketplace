@@ -2,6 +2,8 @@
 
 Cloudflare's official skills to choose the right Cloudflare product, build and debug Workers to Cloudflare's best practices and use Wrangler safely, with Cloudflare's API and docs MCP servers.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/cloudflare-workers
+
 ## Install
 
 Claude Code:

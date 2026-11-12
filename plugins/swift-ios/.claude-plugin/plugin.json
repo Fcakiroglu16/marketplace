@@ -1,10 +1,11 @@
 {
   "name": "swift-ios",
-  "version": "1.0.0-cc0f4a7ef2668",
+  "version": "1.0.0-cd702d267da89",
   "description": "Paul Hudson\u0027s SwiftUI, SwiftData, Swift Testing and Swift Concurrency skills, plus MobileBuildMCP to build, run, test and debug on simulators.",
   "author": {
     "name": "PlaybookRun"
   },
+  "homepage": "https://playbookrun.com/p/swift-ios",
   "keywords": [
     "swift",
     "swiftui",

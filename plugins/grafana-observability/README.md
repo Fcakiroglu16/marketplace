@@ -2,6 +2,8 @@
 
 Grafana's official skills for PromQL, LogQL and OpenTelemetry, plus blameless postmortems, with the Grafana MCP server in read-only mode.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/grafana-observability
+
 ## Install
 
 Claude Code:

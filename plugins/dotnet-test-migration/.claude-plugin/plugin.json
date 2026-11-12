@@ -1,10 +1,11 @@
 {
   "name": "dotnet-test-migration",
-  "version": "1.0.0-c4b0c3fda6abe",
+  "version": "1.0.0-ce70c1b799bc0",
   "description": "Official skills to move test projects: MSTest v1/v2 to v3 to v4, NUnit or xUnit to MSTest, xUnit v3, VSTest to Microsoft.Testing.Platform.",
   "author": {
     "name": "PlaybookRun"
   },
+  "homepage": "https://playbookrun.com/p/dotnet-test-migration",
   "keywords": [
     "dotnet",
     "testing",

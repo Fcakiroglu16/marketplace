@@ -1,6 +1,6 @@
 {
   "name": "mysql-planetscale",
-  "version": "1.0.0-c69cea50129ad",
+  "version": "1.0.0-c0913ded8b80c",
   "description": "PlanetScale\u0027s skills for MySQL schema design, indexing and query tuning, and for Vitess sharding, keyspaces and online schema changes.",
   "author": {
     "name": "PlaybookRun"

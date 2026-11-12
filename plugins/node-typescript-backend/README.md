@@ -2,6 +2,8 @@
 
 Modern Node.js 22+ with native TypeScript, Fastify APIs, strict types and ESLint 9 flat config from Matteo Collina (Node.js TSC, Fastify lead), plus Hono's official skill.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/node-typescript-backend
+
 ## Install
 
 Claude Code:

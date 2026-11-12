@@ -1,6 +1,6 @@
 {
   "name": "clickhouse",
-  "version": "1.0.0-c37677f428019",
+  "version": "1.0.0-c41ce74e54658",
   "description": "ClickHouse\u0027s official skills: review schemas, queries and settings against 31 rules and choose ingestion and modelling patterns, with the ClickHouse MCP server, read-only by default.",
   "author": {
     "name": "PlaybookRun"

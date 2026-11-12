@@ -1,10 +1,11 @@
 {
   "name": "svelte-apps",
-  "version": "1.0.0-c0f129159635b",
+  "version": "1.0.0-c44f1e76295d7",
   "description": "The Svelte team\u0027s official skills and MCP server: Svelte 5 runes, best practices and an autofixer for generated components.",
   "author": {
     "name": "PlaybookRun"
   },
+  "homepage": "https://playbookrun.com/p/svelte-apps",
   "keywords": [
     "svelte",
     "sveltekit",

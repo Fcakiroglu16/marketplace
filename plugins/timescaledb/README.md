@@ -2,6 +2,8 @@
 
 Tiger Data's skills for time-series Postgres: find tables that should be hypertables, set them up, migrate existing tables and query with hyperfunctions.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/timescaledb
+
 ## Install
 
 Claude Code:

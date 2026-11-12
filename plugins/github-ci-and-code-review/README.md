@@ -2,6 +2,8 @@
 
 Fix failing GitHub Actions checks, work through PR review comments, cut CI minutes, review branches for bugs and write conventional commits, with the read-only GitHub MCP server.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/github-ci-and-code-review
+
 ## Install
 
 Claude Code:

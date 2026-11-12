@@ -1,10 +1,11 @@
 {
   "name": "nextjs-on-vercel",
-  "version": "1.0.0-cae8b3ebd1c25",
+  "version": "1.0.0-c500aa5b3b0a6",
   "description": "Build Next.js apps with Vercel\u0027s React rules and the Next.js DevTools MCP server, then inspect and optimize them on Vercel with the Vercel MCP server.",
   "author": {
     "name": "PlaybookRun"
   },
+  "homepage": "https://playbookrun.com/p/nextjs-on-vercel",
   "keywords": [
     "nextjs",
     "react",

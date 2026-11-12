@@ -2,6 +2,8 @@
 
 Modern Java day to day, JDK upgrades from 11 to 25, javax to jakarta, JVM diagnostics and debugging, plus Gradle's official build audit and wrapper upgrade.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/java-jvm-toolkit
+
 ## Install
 
 Claude Code:

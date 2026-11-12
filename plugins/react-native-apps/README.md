@@ -2,6 +2,8 @@
 
 Vercel's official React Native skill: performance, lists, animations, navigation and native modules in React Native and Expo apps.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/react-native-apps
+
 ## Install
 
 Claude Code:

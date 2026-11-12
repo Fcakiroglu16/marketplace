@@ -1,6 +1,6 @@
 {
   "name": "python-fastapi",
-  "version": "1.0.0-ce452ce87ea38",
+  "version": "1.0.0-cc38fcbfffba7",
   "description": "Astral\u0027s official uv, Ruff and ty skills, FastAPI\u0027s own skill shipped in the FastAPI repository and Pydantic\u0027s official skill.",
   "author": {
     "name": "PlaybookRun"

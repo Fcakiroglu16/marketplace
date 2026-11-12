@@ -2,6 +2,8 @@
 
 Idiomatic Go for your Go version: JetBrains' modern Go guidelines plus skills for errors, concurrency, context, testing, security, linting and naming, with the gopls MCP server.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/go-modern
+
 ## Install
 
 Claude Code:

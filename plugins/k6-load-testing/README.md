@@ -2,6 +2,8 @@
 
 Grafana's official k6 skills: write load and browser tests for a website or API and keep test scripts maintainable.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/k6-load-testing
+
 ## Install
 
 Claude Code:

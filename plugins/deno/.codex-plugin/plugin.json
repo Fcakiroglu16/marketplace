@@ -1,6 +1,6 @@
 {
   "name": "deno",
-  "version": "1.0.0-cc38c23a943d4",
+  "version": "1.0.0-c43381330fbd6",
   "description": "The Deno team\u0027s skills: project config, npm and JSR dependencies, permissions, Fresh 2 frontends and moving Node or Bun projects to Deno.",
   "author": {
     "name": "PlaybookRun"

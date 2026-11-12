@@ -1,6 +1,6 @@
 {
   "name": "web-ui-testing",
-  "version": "1.0.0-c2d3bfd0d5682",
+  "version": "1.0.0-c60e66dd5ba03",
   "description": "Anthropic\u0027s webapp-testing skill with Playwright and Chrome DevTools MCP servers: drive the app, check behaviour, capture screenshots and logs.",
   "author": {
     "name": "PlaybookRun"

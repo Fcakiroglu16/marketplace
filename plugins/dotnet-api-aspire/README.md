@@ -2,6 +2,8 @@
 
 Official .NET and Aspire skills: Web API, EF Core, tests, AppHost wiring, orchestration, monitoring and deployment.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/dotnet-api-aspire
+
 ## Install
 
 Claude Code:

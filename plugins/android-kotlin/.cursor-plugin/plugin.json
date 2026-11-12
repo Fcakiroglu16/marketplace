@@ -1,11 +1,12 @@
 {
   "name": "android-kotlin",
   "displayName": "Android with Compose and Kotlin",
-  "version": "1.0.0-c20befbec15b0",
+  "version": "1.0.0-c6416e4a2f8bb",
   "description": "Google\u0027s official Android skills (Compose performance, XML to Compose, adaptive UI, Navigation 3, edge-to-edge, testing, AGP 9, ANRs, intent security) plus JetBrains\u0027 Kotlin skills.",
   "author": {
     "name": "PlaybookRun"
   },
+  "homepage": "https://playbookrun.com/p/android-kotlin",
   "keywords": [
     "android",
     "jetpack-compose",

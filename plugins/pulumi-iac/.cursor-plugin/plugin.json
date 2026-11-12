@@ -1,11 +1,12 @@
 {
   "name": "pulumi-iac",
   "displayName": "Pulumi infrastructure as code",
-  "version": "1.0.0-ce8175ab763bd",
+  "version": "1.0.0-c4453241e865f",
   "description": "Pulumi\u0027s official skills: best practices, debugging failed \u0060pulumi up\u0060 and preview runs, Pulumi ESC secrets and config, and migrating Terraform to Pulumi.",
   "author": {
     "name": "PlaybookRun"
   },
+  "homepage": "https://playbookrun.com/p/pulumi-iac",
   "keywords": [
     "pulumi",
     "iac",

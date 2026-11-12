@@ -2,6 +2,8 @@
 
 Official skills to move test projects: MSTest v1/v2 to v3 to v4, NUnit or xUnit to MSTest, xUnit v3, VSTest to Microsoft.Testing.Platform.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/dotnet-test-migration
+
 ## Install
 
 Claude Code:

@@ -2,6 +2,8 @@
 
 Anthropic's frontend-design skill with Vercel's web interface guidelines, Figma's MCP server for designs and Chrome DevTools for review.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/frontend-design
+
 ## Install
 
 Claude Code:

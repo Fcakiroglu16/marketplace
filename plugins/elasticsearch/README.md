@@ -2,6 +2,8 @@
 
 Elastic's official skills for ES|QL, mapping and index design, slow-query profiling, relevance tuning and read-only cluster health checks.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/elasticsearch
+
 ## Install
 
 Claude Code:

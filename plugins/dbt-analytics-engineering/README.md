@@ -2,6 +2,8 @@
 
 dbt Labs' official skills: build and test dbt models, add unit tests, define Semantic Layer metrics and run dbt commands the right way, with the dbt MCP server.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/dbt-analytics-engineering
+
 ## Install
 
 Claude Code:

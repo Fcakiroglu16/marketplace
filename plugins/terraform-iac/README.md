@@ -2,6 +2,8 @@
 
 HashiCorp's official skills to write, test and refactor Terraform in HashiCorp style, with live provider and module docs from the Terraform MCP server.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/terraform-iac
+
 ## Install
 
 Claude Code:

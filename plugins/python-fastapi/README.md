@@ -2,6 +2,8 @@
 
 Astral's official uv, Ruff and ty skills, FastAPI's own skill shipped in the FastAPI repository and Pydantic's official skill.
 
+Reviewed before publishing. Details, files and install options for every tool: https://playbookrun.com/p/python-fastapi
+
 ## Install
 
 Claude Code:

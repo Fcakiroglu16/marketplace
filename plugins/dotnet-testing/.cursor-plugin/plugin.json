@@ -1,11 +1,12 @@
 {
   "name": "dotnet-testing",
   "displayName": ".NET testing",
-  "version": "1.0.0-cb47902b690c7",
+  "version": "1.0.0-cdef715ffe3d3",
   "description": "Official .NET skills to run, write and improve tests: filters, MSTest, coverage, gap analysis, test smells and testability.",
   "author": {
     "name": "PlaybookRun"
   },
+  "homepage": "https://playbookrun.com/p/dotnet-testing",
   "keywords": [
     "dotnet",
     "testing",

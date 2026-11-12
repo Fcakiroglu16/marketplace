@@ -1,6 +1,6 @@
 {
   "name": "angular-apps",
-  "version": "1.0.0-c79291d44884c",
+  "version": "1.0.0-c1cb39c8ccf43",
   "description": "The Angular team\u0027s official skills and CLI MCP server: new apps with current defaults, signals, forms, routing, SSR, testing and CLI.",
   "author": {
     "name": "PlaybookRun"
