@@ -4,7 +4,9 @@
       "command": "uvx",
       "args": [
         "mcp-grafana@2.2.0",
-        "--disable-write"
+        "--disable-write",
+        "--usage-stats",
+        "disabled"
       ],
       "env": {
         "GRAFANA_SERVICE_ACCOUNT_TOKEN": "${GRAFANA_SERVICE_ACCOUNT_TOKEN}",

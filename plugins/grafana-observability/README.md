@@ -31,6 +31,6 @@ Observability with Grafana's own skills: write PromQL and LogQL that answer the 
 
 ## MCP servers
 
-- **Grafana**: Grafana's official MCP server in read-only mode: search dashboards, query Prometheus and Loki, read alerts and incidents. Needs uv, GRAFANA_URL and GRAFANA_SERVICE_ACCOUNT_TOKEN.
+- **Grafana**: Grafana's official MCP server in read-only mode with usage statistics off: search dashboards, query Prometheus and Loki, read alerts and incidents. Needs uv, GRAFANA_URL and GRAFANA_SERVICE_ACCOUNT_TOKEN.
 
 All skills are copied unchanged from [grafana/skills](https://github.com/grafana/skills) under Apache 2.0 and [github/awesome-copilot](https://github.com/github/awesome-copilot) under the MIT; each skill folder includes its licence and `SOURCE.md` with the source commit.
