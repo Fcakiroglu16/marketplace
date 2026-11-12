@@ -1,0 +1,25 @@
+{
+  "name": "aws-serverless",
+  "version": "1.0.0-c857970215589",
+  "description": "AWS\u0027s own skills to design and build Lambda, API Gateway and Step Functions and to estimate cost before a deploy, with the AWS Knowledge, IaC, Pricing and Serverless MCP servers.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "sam",
+    "cdk",
+    "serverless",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "AWS serverless",
+    "shortDescription": "AWS\u0027s own skills to design and build Lambda, API Gateway and Step Functions a...",
+    "longDescription": "AWS\u0027s own skills to design and build Lambda, API Gateway and Step Functions and to estimate cost before a deploy, with the AWS Knowledge, IaC, Pricing and Serverless MCP servers.",
+    "developerName": "PlaybookRun",
+    "category": "Cloud"
+  }
+}

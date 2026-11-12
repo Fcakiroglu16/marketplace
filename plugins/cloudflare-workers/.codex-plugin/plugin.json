@@ -1,0 +1,25 @@
+{
+  "name": "cloudflare-workers",
+  "version": "1.0.0-c5c6c550f73cf",
+  "description": "Cloudflare\u0027s official skills to choose the right Cloudflare product, build and debug Workers to Cloudflare\u0027s best practices and use Wrangler safely, with Cloudflare\u0027s API and docs MCP servers.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "cloudflare",
+    "workers",
+    "wrangler",
+    "edge",
+    "durable-objects",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Cloudflare Workers",
+    "shortDescription": "Cloudflare\u0027s official skills to choose the right Cloudflare product, build an...",
+    "longDescription": "Cloudflare\u0027s official skills to choose the right Cloudflare product, build and debug Workers to Cloudflare\u0027s best practices and use Wrangler safely, with Cloudflare\u0027s API and docs MCP servers.",
+    "developerName": "PlaybookRun",
+    "category": "Cloud"
+  }
+}

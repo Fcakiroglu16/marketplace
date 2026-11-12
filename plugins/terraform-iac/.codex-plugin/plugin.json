@@ -1,0 +1,25 @@
+{
+  "name": "terraform-iac",
+  "version": "1.0.0-c3f082e403e2c",
+  "description": "HashiCorp\u0027s official skills to write, test and refactor Terraform in HashiCorp style, with live provider and module docs from the Terraform MCP server.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "terraform",
+    "hcl",
+    "iac",
+    "testing",
+    "modules",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Terraform infrastructure as code",
+    "shortDescription": "HashiCorp\u0027s official skills to write, test and refactor Terraform in HashiCor...",
+    "longDescription": "HashiCorp\u0027s official skills to write, test and refactor Terraform in HashiCorp style, with live provider and module docs from the Terraform MCP server.",
+    "developerName": "PlaybookRun",
+    "category": "DevOps"
+  }
+}

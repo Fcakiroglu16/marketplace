@@ -1,0 +1,16 @@
+{
+  "name": "supabase",
+  "version": "1.0.0-c308c06013ba3",
+  "description": "Build on Supabase (database, auth, RLS, Edge Functions, Realtime, Storage, CLI) with Supabase\u0027s own skills and the Supabase MCP server in read-only mode.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "supabase",
+    "postgres",
+    "rls",
+    "auth",
+    "edge-functions",
+    "official"
+  ]
+}

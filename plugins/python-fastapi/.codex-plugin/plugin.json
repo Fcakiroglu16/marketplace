@@ -1,0 +1,26 @@
+{
+  "name": "python-fastapi",
+  "version": "1.0.0-ce452ce87ea38",
+  "description": "Astral\u0027s official uv, Ruff and ty skills, FastAPI\u0027s own skill shipped in the FastAPI repository and Pydantic\u0027s official skill.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "python",
+    "uv",
+    "ruff",
+    "ty",
+    "pydantic",
+    "fastapi",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Modern Python and FastAPI",
+    "shortDescription": "Astral\u0027s official uv, Ruff and ty skills, FastAPI\u0027s own skill shipped in the ...",
+    "longDescription": "Astral\u0027s official uv, Ruff and ty skills, FastAPI\u0027s own skill shipped in the FastAPI repository and Pydantic\u0027s official skill.",
+    "developerName": "PlaybookRun",
+    "category": "Backend"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "redis",
+  "version": "1.0.0-c0071d8784162",
+  "description": "Redis\u0027s official skills for data modelling, connections and pipelining, Redis Search and vectors, clustering, security and observability, with the Redis MCP server.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "redis",
+    "cache",
+    "key-value",
+    "vector-search",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Redis",
+    "shortDescription": "Redis\u0027s official skills for data modelling, connections and pipelining, Redis...",
+    "longDescription": "Redis\u0027s official skills for data modelling, connections and pipelining, Redis Search and vectors, clustering, security and observability, with the Redis MCP server.",
+    "developerName": "PlaybookRun",
+    "category": "Database"
+  }
+}

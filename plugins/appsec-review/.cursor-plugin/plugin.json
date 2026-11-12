@@ -1,0 +1,18 @@
+{
+  "name": "appsec-review",
+  "displayName": "Application security review",
+  "version": "1.0.0-cc55e7f53e327",
+  "description": "Secure-by-default code review, threat models grounded in your repository, GitHub Actions hardening and checks for secrets leaking through logs and serialization, with GitHub code-scanning alerts.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "security",
+    "owasp",
+    "threat-model",
+    "github-actions",
+    "secrets",
+    "supply-chain"
+  ],
+  "category": "security"
+}

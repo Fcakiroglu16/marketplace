@@ -1,0 +1,39 @@
+{
+  "mcpServers": {
+    "aws-knowledge": {
+      "type": "http",
+      "url": "https://knowledge-mcp.global.api.aws"
+    },
+    "aws-iac": {
+      "command": "uvx",
+      "args": [
+        "awslabs.aws-iac-mcp-server@1.0.26"
+      ],
+      "env": {
+        "AWS_PROFILE": "${AWS_PROFILE}",
+        "AWS_REGION": "${AWS_REGION}"
+      }
+    },
+    "aws-pricing": {
+      "command": "uvx",
+      "args": [
+        "awslabs.aws-pricing-mcp-server@1.1.1"
+      ],
+      "env": {
+        "AWS_PROFILE": "${AWS_PROFILE}",
+        "AWS_REGION": "${AWS_REGION}",
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      }
+    },
+    "aws-serverless": {
+      "command": "uvx",
+      "args": [
+        "awslabs.aws-serverless-mcp-server@0.2.1"
+      ],
+      "env": {
+        "AWS_PROFILE": "${AWS_PROFILE}",
+        "AWS_REGION": "${AWS_REGION}"
+      }
+    }
+  }
+}

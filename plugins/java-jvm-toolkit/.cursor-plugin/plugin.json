@@ -1,0 +1,18 @@
+{
+  "name": "java-jvm-toolkit",
+  "displayName": "Java and Gradle toolkit",
+  "version": "1.0.0-c27b22a91ef1b",
+  "description": "Modern Java day to day, JDK upgrades from 11 to 25, javax to jakarta, JVM diagnostics and debugging, plus Gradle\u0027s official build audit and wrapper upgrade.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "java",
+    "jvm",
+    "gradle",
+    "maven",
+    "jdk-upgrade",
+    "diagnostics"
+  ],
+  "category": "language"
+}

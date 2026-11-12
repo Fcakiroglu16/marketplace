@@ -1,0 +1,18 @@
+{
+  "name": "mongodb",
+  "displayName": "MongoDB",
+  "version": "1.0.0-c7058c4e1ca30",
+  "description": "MongoDB\u0027s official skills for schema design, query and index tuning, connection pools and read-only natural-language queries, with the MongoDB MCP server in read-only mode.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "mongodb",
+    "nosql",
+    "atlas",
+    "schema-design",
+    "indexing",
+    "official"
+  ],
+  "category": "database"
+}

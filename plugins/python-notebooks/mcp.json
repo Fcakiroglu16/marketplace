@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "jupyter": {
+      "command": "uvx",
+      "args": [
+        "jupyter-mcp-server@2.2.5"
+      ],
+      "env": {
+        "ALLOW_IMG_OUTPUT": "true",
+        "JUPYTER_TOKEN": "${JUPYTER_TOKEN}",
+        "JUPYTER_URL": "${JUPYTER_URL}"
+      }
+    }
+  }
+}

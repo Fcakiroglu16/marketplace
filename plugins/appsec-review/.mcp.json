@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "github-code-security": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/x/code_security/readonly",
+      "headers": {
+        "Authorization": "Bearer ${GITHUB_PERSONAL_ACCESS_TOKEN}"
+      }
+    }
+  }
+}

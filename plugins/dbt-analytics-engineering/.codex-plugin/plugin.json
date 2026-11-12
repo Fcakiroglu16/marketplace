@@ -1,0 +1,25 @@
+{
+  "name": "dbt-analytics-engineering",
+  "version": "1.0.0-c86dfb75b7a54",
+  "description": "dbt Labs\u0027 official skills: build and test dbt models, add unit tests, define Semantic Layer metrics and run dbt commands the right way, with the dbt MCP server.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "dbt",
+    "analytics-engineering",
+    "sql",
+    "semantic-layer",
+    "data-warehouse",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "dbt analytics engineering",
+    "shortDescription": "dbt Labs\u0027 official skills: build and test dbt models, add unit tests, define ...",
+    "longDescription": "dbt Labs\u0027 official skills: build and test dbt models, add unit tests, define Semantic Layer metrics and run dbt commands the right way, with the dbt MCP server.",
+    "developerName": "PlaybookRun",
+    "category": "Data"
+  }
+}

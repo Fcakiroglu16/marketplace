@@ -1,0 +1,25 @@
+{
+  "name": "github-ci-and-code-review",
+  "version": "1.0.0-cd3942c76524d",
+  "description": "Fix failing GitHub Actions checks, work through PR review comments, cut CI minutes, review branches for bugs and write conventional commits, with the read-only GitHub MCP server.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "github",
+    "github-actions",
+    "ci",
+    "pull-requests",
+    "code-review",
+    "git"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "GitHub CI and code review",
+    "shortDescription": "Fix failing GitHub Actions checks, work through PR review comments, cut CI mi...",
+    "longDescription": "Fix failing GitHub Actions checks, work through PR review comments, cut CI minutes, review branches for bugs and write conventional commits, with the read-only GitHub MCP server.",
+    "developerName": "PlaybookRun",
+    "category": "DevOps"
+  }
+}

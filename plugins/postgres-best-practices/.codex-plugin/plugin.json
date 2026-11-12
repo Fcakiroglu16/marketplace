@@ -1,0 +1,25 @@
+{
+  "name": "postgres-best-practices",
+  "version": "1.0.0-c36d8136f7130",
+  "description": "Schema design, indexing, query tuning, zero-downtime migrations, schema exploration and pgvector search for any PostgreSQL database, from Supabase and Tiger Data.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "postgres",
+    "sql",
+    "indexing",
+    "query-tuning",
+    "migrations",
+    "pgvector"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "PostgreSQL best practices",
+    "shortDescription": "Schema design, indexing, query tuning, zero-downtime migrations, schema explo...",
+    "longDescription": "Schema design, indexing, query tuning, zero-downtime migrations, schema exploration and pgvector search for any PostgreSQL database, from Supabase and Tiger Data.",
+    "developerName": "PlaybookRun",
+    "category": "Database"
+  }
+}

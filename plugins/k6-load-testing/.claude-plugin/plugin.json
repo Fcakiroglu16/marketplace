@@ -1,0 +1,16 @@
+{
+  "name": "k6-load-testing",
+  "version": "1.0.0-c9aaec7e4fde4",
+  "description": "Grafana\u0027s official k6 skills: write load and browser tests for a website or API and keep test scripts maintainable.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "k6",
+    "load-testing",
+    "performance",
+    "browser-testing",
+    "grafana",
+    "official"
+  ]
+}

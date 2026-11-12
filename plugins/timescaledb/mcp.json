@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "pg-aiguide-docs": {
+      "type": "http",
+      "url": "https://mcp.tigerdata.com/docs"
+    },
+    "postgres-mcp": {
+      "command": "uvx",
+      "args": [
+        "postgres-mcp@0.3.0",
+        "--access-mode=restricted"
+      ],
+      "env": {
+        "DATABASE_URI": "${DATABASE_URI}"
+      }
+    }
+  }
+}

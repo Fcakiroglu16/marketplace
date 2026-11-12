@@ -1,0 +1,25 @@
+{
+  "name": "appsec-review",
+  "version": "1.0.0-cc55e7f53e327",
+  "description": "Secure-by-default code review, threat models grounded in your repository, GitHub Actions hardening and checks for secrets leaking through logs and serialization, with GitHub code-scanning alerts.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "security",
+    "owasp",
+    "threat-model",
+    "github-actions",
+    "secrets",
+    "supply-chain"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Application security review",
+    "shortDescription": "Secure-by-default code review, threat models grounded in your repository, Git...",
+    "longDescription": "Secure-by-default code review, threat models grounded in your repository, GitHub Actions hardening and checks for secrets leaking through logs and serialization, with GitHub code-scanning alerts.",
+    "developerName": "PlaybookRun",
+    "category": "Security"
+  }
+}

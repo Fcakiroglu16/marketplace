@@ -1,0 +1,24 @@
+{
+  "name": "mysql-planetscale",
+  "version": "1.0.0-c69cea50129ad",
+  "description": "PlanetScale\u0027s skills for MySQL schema design, indexing and query tuning, and for Vitess sharding, keyspaces and online schema changes.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "mysql",
+    "vitess",
+    "planetscale",
+    "sql",
+    "indexing"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "MySQL and Vitess",
+    "shortDescription": "PlanetScale\u0027s skills for MySQL schema design, indexing and query tuning, and ...",
+    "longDescription": "PlanetScale\u0027s skills for MySQL schema design, indexing and query tuning, and for Vitess sharding, keyspaces and online schema changes.",
+    "developerName": "PlaybookRun",
+    "category": "Database"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "pulumi-iac",
+  "version": "1.0.0-ce8175ab763bd",
+  "description": "Pulumi\u0027s official skills: best practices, debugging failed \u0060pulumi up\u0060 and preview runs, Pulumi ESC secrets and config, and migrating Terraform to Pulumi.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "pulumi",
+    "iac",
+    "typescript",
+    "python",
+    "migration",
+    "official"
+  ]
+}

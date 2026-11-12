@@ -255,6 +255,426 @@
         "authentication": "ON_INSTALL"
       },
       "category": "Testing"
+    },
+    {
+      "name": "spring-boot-java",
+      "source": {
+        "source": "local",
+        "path": "./plugins/spring-boot-java"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Backend"
+    },
+    {
+      "name": "java-jvm-toolkit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/java-jvm-toolkit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Language"
+    },
+    {
+      "name": "quarkus",
+      "source": {
+        "source": "local",
+        "path": "./plugins/quarkus"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Backend"
+    },
+    {
+      "name": "android-kotlin",
+      "source": {
+        "source": "local",
+        "path": "./plugins/android-kotlin"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Mobile"
+    },
+    {
+      "name": "go-modern",
+      "source": {
+        "source": "local",
+        "path": "./plugins/go-modern"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Language"
+    },
+    {
+      "name": "rust-idiomatic",
+      "source": {
+        "source": "local",
+        "path": "./plugins/rust-idiomatic"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Language"
+    },
+    {
+      "name": "node-typescript-backend",
+      "source": {
+        "source": "local",
+        "path": "./plugins/node-typescript-backend"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Backend"
+    },
+    {
+      "name": "vue",
+      "source": {
+        "source": "local",
+        "path": "./plugins/vue"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Frontend"
+    },
+    {
+      "name": "nuxt",
+      "source": {
+        "source": "local",
+        "path": "./plugins/nuxt"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Frontend"
+    },
+    {
+      "name": "deno",
+      "source": {
+        "source": "local",
+        "path": "./plugins/deno"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Backend"
+    },
+    {
+      "name": "python-fastapi",
+      "source": {
+        "source": "local",
+        "path": "./plugins/python-fastapi"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Backend"
+    },
+    {
+      "name": "python-notebooks",
+      "source": {
+        "source": "local",
+        "path": "./plugins/python-notebooks"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Data"
+    },
+    {
+      "name": "flutter-dart",
+      "source": {
+        "source": "local",
+        "path": "./plugins/flutter-dart"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Mobile"
+    },
+    {
+      "name": "swift-ios",
+      "source": {
+        "source": "local",
+        "path": "./plugins/swift-ios"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Mobile"
+    },
+    {
+      "name": "postgres-best-practices",
+      "source": {
+        "source": "local",
+        "path": "./plugins/postgres-best-practices"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Database"
+    },
+    {
+      "name": "timescaledb",
+      "source": {
+        "source": "local",
+        "path": "./plugins/timescaledb"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Database"
+    },
+    {
+      "name": "supabase",
+      "source": {
+        "source": "local",
+        "path": "./plugins/supabase"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Database"
+    },
+    {
+      "name": "mongodb",
+      "source": {
+        "source": "local",
+        "path": "./plugins/mongodb"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Database"
+    },
+    {
+      "name": "redis",
+      "source": {
+        "source": "local",
+        "path": "./plugins/redis"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Database"
+    },
+    {
+      "name": "mysql-planetscale",
+      "source": {
+        "source": "local",
+        "path": "./plugins/mysql-planetscale"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Database"
+    },
+    {
+      "name": "prisma-orm",
+      "source": {
+        "source": "local",
+        "path": "./plugins/prisma-orm"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Database"
+    },
+    {
+      "name": "clickhouse",
+      "source": {
+        "source": "local",
+        "path": "./plugins/clickhouse"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Data"
+    },
+    {
+      "name": "elasticsearch",
+      "source": {
+        "source": "local",
+        "path": "./plugins/elasticsearch"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Data"
+    },
+    {
+      "name": "dbt-analytics-engineering",
+      "source": {
+        "source": "local",
+        "path": "./plugins/dbt-analytics-engineering"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Data"
+    },
+    {
+      "name": "terraform-iac",
+      "source": {
+        "source": "local",
+        "path": "./plugins/terraform-iac"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "DevOps"
+    },
+    {
+      "name": "pulumi-iac",
+      "source": {
+        "source": "local",
+        "path": "./plugins/pulumi-iac"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "DevOps"
+    },
+    {
+      "name": "docker-containers",
+      "source": {
+        "source": "local",
+        "path": "./plugins/docker-containers"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "DevOps"
+    },
+    {
+      "name": "github-ci-and-code-review",
+      "source": {
+        "source": "local",
+        "path": "./plugins/github-ci-and-code-review"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "DevOps"
+    },
+    {
+      "name": "appsec-review",
+      "source": {
+        "source": "local",
+        "path": "./plugins/appsec-review"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Security"
+    },
+    {
+      "name": "sentry-error-monitoring",
+      "source": {
+        "source": "local",
+        "path": "./plugins/sentry-error-monitoring"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Operations"
+    },
+    {
+      "name": "grafana-observability",
+      "source": {
+        "source": "local",
+        "path": "./plugins/grafana-observability"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Operations"
+    },
+    {
+      "name": "k6-load-testing",
+      "source": {
+        "source": "local",
+        "path": "./plugins/k6-load-testing"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Testing"
+    },
+    {
+      "name": "aws-serverless",
+      "source": {
+        "source": "local",
+        "path": "./plugins/aws-serverless"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Cloud"
+    },
+    {
+      "name": "google-cloud-gke",
+      "source": {
+        "source": "local",
+        "path": "./plugins/google-cloud-gke"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Cloud"
+    },
+    {
+      "name": "cloudflare-workers",
+      "source": {
+        "source": "local",
+        "path": "./plugins/cloudflare-workers"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Cloud"
     }
   ]
 }

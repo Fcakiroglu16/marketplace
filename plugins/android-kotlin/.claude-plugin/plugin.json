@@ -1,0 +1,16 @@
+{
+  "name": "android-kotlin",
+  "version": "1.0.0-c20befbec15b0",
+  "description": "Google\u0027s official Android skills (Compose performance, XML to Compose, adaptive UI, Navigation 3, edge-to-edge, testing, AGP 9, ANRs, intent security) plus JetBrains\u0027 Kotlin skills.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "android",
+    "jetpack-compose",
+    "kotlin",
+    "kmp",
+    "agp",
+    "official"
+  ]
+}

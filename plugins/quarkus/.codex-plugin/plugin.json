@@ -1,0 +1,25 @@
+{
+  "name": "quarkus",
+  "version": "1.0.0-c71e724780eec",
+  "description": "Create, test and ship Quarkus apps with Dev Services, native images and containers, migrate Spring Boot to Quarkus and keep versions current, with the official Quarkus agent MCP.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "java",
+    "quarkus",
+    "graalvm",
+    "native",
+    "kubernetes",
+    "migration"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Quarkus",
+    "shortDescription": "Create, test and ship Quarkus apps with Dev Services, native images and conta...",
+    "longDescription": "Create, test and ship Quarkus apps with Dev Services, native images and containers, migrate Spring Boot to Quarkus and keep versions current, with the official Quarkus agent MCP.",
+    "developerName": "PlaybookRun",
+    "category": "Backend"
+  }
+}

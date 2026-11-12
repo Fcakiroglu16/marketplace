@@ -1,0 +1,92 @@
+# Spring Boot to Quarkus Dependency Map
+
+## Core
+
+| Spring Boot | Quarkus (Full Migration) | Quarkus (Compatibility) |
+|---|---|---|
+| `spring-boot-starter-web` | `quarkus-rest` | `quarkus-spring-web` |
+| `spring-boot-starter-webflux` | `quarkus-rest` with reactive | `quarkus-spring-web` |
+| `spring-boot-starter-data-jpa` | `quarkus-hibernate-orm-panache` | `quarkus-spring-data-jpa` |
+| `spring-boot-starter-data-rest` | `quarkus-rest` + `quarkus-hibernate-orm-panache` | `quarkus-spring-data-rest` |
+| `spring-boot-starter-validation` | `quarkus-hibernate-validator` | `quarkus-hibernate-validator` |
+| `spring-boot-starter-security` | `quarkus-security` + `quarkus-oidc` (or `quarkus-elytron-security-properties-file`) | `quarkus-spring-security` |
+| `spring-boot-starter-actuator` | `quarkus-smallrye-health` + `quarkus-micrometer` | `quarkus-spring-boot-properties` |
+| `spring-boot-starter-cache` | `quarkus-cache` | `quarkus-spring-cache` |
+| `spring-boot-starter-test` | `quarkus-junit` + `io.rest-assured:rest-assured` | `quarkus-junit` |
+
+## Data / Persistence
+
+| Spring Boot | Quarkus (Full Migration) | Quarkus (Compatibility) |
+|---|---|---|
+| `spring-boot-starter-data-mongodb` | `quarkus-mongodb-panache` | `quarkus-spring-data-api` (limited) |
+| `spring-boot-starter-data-redis` | `quarkus-redis-client` | -- |
+| `spring-boot-starter-jdbc` | `quarkus-agroal` + `quarkus-jdbc-*` | `quarkus-spring-data-jpa` |
+| `h2` (test DB) | `quarkus-jdbc-h2` | `quarkus-jdbc-h2` |
+| `postgresql` | `quarkus-jdbc-postgresql` | `quarkus-jdbc-postgresql` |
+| `mysql-connector-j` | `quarkus-jdbc-mysql` | `quarkus-jdbc-mysql` |
+| `flyway` | `quarkus-flyway` | `quarkus-flyway` |
+| `liquibase` | `quarkus-liquibase` | `quarkus-liquibase` |
+
+## Messaging
+
+| Spring Boot starter | `pom.xml` extension (Quarkus 3.x) | `mp.messaging.*.connector=` |
+|---|---|---|
+| `spring-kafka` | `quarkus-messaging-kafka` | `smallrye-kafka` |
+| `spring-boot-starter-amqp` (RabbitMQ / AMQP 0-9-1) | `quarkus-messaging-rabbitmq` | `smallrye-rabbitmq` |
+| AMQP 1.0 brokers (Azure Service Bus, Artemis AMQP mode) | `quarkus-messaging-amqp` | `smallrye-amqp` |
+| `spring-boot-starter-activemq` / `spring-boot-starter-artemis` | `io.quarkiverse.artemis:quarkus-artemis-jms`¹ + `io.smallrye.reactive:smallrye-reactive-messaging-jms`² | `smallrye-jms` |
+
+¹ Quarkiverse extension — not in the Quarkus platform; declare with explicit groupId.
+² In the Quarkus 3.x BOM — no version declaration needed.
+
+## Templating / View Layer
+
+| Spring Boot | Quarkus (Full / Qute) | Quarkus (Compat / Preserved) |
+|---|---|---|
+| `spring-boot-starter-thymeleaf` | `quarkus-rest-qute` (when controllers return `TemplateInstance`) or `quarkus-qute-web` (auto-serve templates without REST resources). **Never** use `quarkus-qute` alone — it lacks REST integration. | -- |
+| `spring-boot-starter-freemarker` | `quarkus-rest-qute` | `io.quarkiverse.freemarker:quarkus-freemarker` |
+| JSP (`jstl`, `tomcat-embed-jasper`) | `quarkus-rest-qute` | -- |
+| JSF / PrimeFaces | `quarkus-rest-qute` | `org.apache.myfaces.core.extensions.quarkus:myfaces-quarkus` (+ `io.quarkiverse.primefaces:quarkus-primefaces`) |
+
+## Scheduling / DI / Config
+
+| Spring Boot | Quarkus (Full) | Quarkus (Compat) |
+|---|---|---|
+| `spring-boot-starter` (DI) | `quarkus-arc` (included by default) | `quarkus-spring-di` |
+| `spring-tx` / `@Transactional` | `quarkus-narayana-jta` (usually pulled in by Hibernate ORM; add explicitly if needed) | `quarkus-spring-tx` |
+| `spring-boot-configuration-processor` | `quarkus-arc` (built-in config mapping) | `quarkus-spring-boot-properties` |
+| `spring-boot-starter-quartz` | `quarkus-quartz` or `quarkus-scheduler` | `quarkus-spring-scheduled` |
+
+## Data REST / Cloud / Testing
+
+| Spring Boot | Quarkus (Full) | Quarkus (Compat) |
+|---|---|---|
+| `spring-boot-starter-data-rest` | `quarkus-rest` + `quarkus-hibernate-orm-panache` | `quarkus-spring-data-rest` |
+| `spring-cloud-starter-config` | -- | `quarkus-spring-cloud-config-client` |
+| `spring-boot-starter-test` (with `@SpringBootTest`) | `quarkus-junit` | `quarkus-spring-boot-test` |
+
+## Observability
+
+| Spring Boot | Quarkus |
+|---|---|
+| `micrometer-registry-prometheus` | `quarkus-micrometer-registry-prometheus` |
+| `spring-boot-starter-logging` | `quarkus-logging-json` (JSON) or built-in JBoss Logging |
+| `opentelemetry` | `quarkus-opentelemetry` |
+
+## Build Plugin
+
+| Spring Boot | Quarkus |
+|---|---|
+| `spring-boot-maven-plugin` | `quarkus-maven-plugin` |
+| `spring-boot-gradle-plugin` | `io.quarkus` Gradle plugin |
+
+## Dependency Syntax by Build Tool
+
+Dependencies listed above use Maven artifact coordinates (`groupId:artifactId`). When working with Gradle build files, use the following mapping:
+
+| Maven | Gradle |
+|---|---|
+| `<dependency>` (default scope) | `implementation 'groupId:artifactId'` |
+| `<scope>test</scope>` | `testImplementation 'groupId:artifactId'` |
+| `<scope>runtime</scope>` | `runtimeOnly 'groupId:artifactId'` |
+| `<scope>provided</scope>` | `compileOnly 'groupId:artifactId'` |

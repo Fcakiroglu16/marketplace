@@ -1,0 +1,24 @@
+{
+  "name": "node-typescript-backend",
+  "version": "1.0.0-ce603b5f20466",
+  "description": "Modern Node.js 22\u002B with native TypeScript, Fastify APIs, strict types and ESLint 9 flat config from Matteo Collina (Node.js TSC, Fastify lead), plus Hono\u0027s official skill.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "node",
+    "typescript",
+    "fastify",
+    "hono",
+    "eslint"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Node.js and TypeScript backend",
+    "shortDescription": "Modern Node.js 22\u002B with native TypeScript, Fastify APIs, strict types and ESL...",
+    "longDescription": "Modern Node.js 22\u002B with native TypeScript, Fastify APIs, strict types and ESLint 9 flat config from Matteo Collina (Node.js TSC, Fastify lead), plus Hono\u0027s official skill.",
+    "developerName": "PlaybookRun",
+    "category": "Backend"
+  }
+}

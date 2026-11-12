@@ -1,0 +1,16 @@
+{
+  "name": "grafana-observability",
+  "version": "1.0.0-ce2729f1144f4",
+  "description": "Grafana\u0027s official skills for PromQL, LogQL and OpenTelemetry, plus blameless postmortems, with the Grafana MCP server in read-only mode.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "grafana",
+    "prometheus",
+    "promql",
+    "loki",
+    "opentelemetry",
+    "incident-response"
+  ]
+}

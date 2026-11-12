@@ -1,0 +1,24 @@
+{
+  "name": "timescaledb",
+  "version": "1.0.0-c26b4a486e212",
+  "description": "Tiger Data\u0027s skills for time-series Postgres: find tables that should be hypertables, set them up, migrate existing tables and query with hyperfunctions.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "timescaledb",
+    "postgres",
+    "time-series",
+    "hypertables",
+    "analytics"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "TimescaleDB time series",
+    "shortDescription": "Tiger Data\u0027s skills for time-series Postgres: find tables that should be hype...",
+    "longDescription": "Tiger Data\u0027s skills for time-series Postgres: find tables that should be hypertables, set them up, migrate existing tables and query with hyperfunctions.",
+    "developerName": "PlaybookRun",
+    "category": "Database"
+  }
+}

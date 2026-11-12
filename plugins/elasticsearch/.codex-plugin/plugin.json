@@ -1,0 +1,24 @@
+{
+  "name": "elasticsearch",
+  "version": "1.0.0-c48d34fcfa454",
+  "description": "Elastic\u0027s official skills for ES|QL, mapping and index design, slow-query profiling, relevance tuning and read-only cluster health checks.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "elasticsearch",
+    "search",
+    "esql",
+    "relevance",
+    "official"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Elasticsearch",
+    "shortDescription": "Elastic\u0027s official skills for ES|QL, mapping and index design, slow-query pro...",
+    "longDescription": "Elastic\u0027s official skills for ES|QL, mapping and index design, slow-query profiling, relevance tuning and read-only cluster health checks.",
+    "developerName": "PlaybookRun",
+    "category": "Data"
+  }
+}

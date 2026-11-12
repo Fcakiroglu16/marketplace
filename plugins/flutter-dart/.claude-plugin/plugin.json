@@ -1,0 +1,15 @@
+{
+  "name": "flutter-dart",
+  "version": "1.0.0-c93a3907d6bb1",
+  "description": "The Flutter and Dart teams\u0027 skills for architecture, responsive layout, layout errors, widget and integration tests, routing, JSON, localization and static analysis, with the Dart MCP server.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "flutter",
+    "dart",
+    "widgets",
+    "testing",
+    "official"
+  ]
+}

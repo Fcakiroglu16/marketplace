@@ -1,0 +1,24 @@
+{
+  "name": "rust-idiomatic",
+  "version": "1.0.0-c73659c6c5ec3",
+  "description": "Idiomatic, safe and fast Rust: Apollo\u0027s Rust best-practices handbook and a 265-rule guide to ownership, errors, async, unsafe, API design and performance.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "rust",
+    "cargo",
+    "clippy",
+    "async",
+    "performance"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Idiomatic Rust",
+    "shortDescription": "Idiomatic, safe and fast Rust: Apollo\u0027s Rust best-practices handbook and a 26...",
+    "longDescription": "Idiomatic, safe and fast Rust: Apollo\u0027s Rust best-practices handbook and a 265-rule guide to ownership, errors, async, unsafe, API design and performance.",
+    "developerName": "PlaybookRun",
+    "category": "Language"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "python-notebooks",
+  "displayName": "Python notebooks",
+  "version": "1.0.0-c6f769b3372f4",
+  "description": "Create and edit clean Jupyter notebooks, write marimo reactive notebooks or convert Jupyter ones to marimo, and work in a running Jupyter server through the Jupyter MCP server.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "python",
+    "jupyter",
+    "marimo",
+    "notebooks",
+    "data"
+  ],
+  "category": "data"
+}

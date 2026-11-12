@@ -1,0 +1,25 @@
+{
+  "name": "swift-ios",
+  "version": "1.0.0-cc0f4a7ef2668",
+  "description": "Paul Hudson\u0027s SwiftUI, SwiftData, Swift Testing and Swift Concurrency skills, plus MobileBuildMCP to build, run, test and debug on simulators.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "swift",
+    "swiftui",
+    "swiftdata",
+    "swift-testing",
+    "ios",
+    "xcode"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Swift and SwiftUI",
+    "shortDescription": "Paul Hudson\u0027s SwiftUI, SwiftData, Swift Testing and Swift Concurrency skills,...",
+    "longDescription": "Paul Hudson\u0027s SwiftUI, SwiftData, Swift Testing and Swift Concurrency skills, plus MobileBuildMCP to build, run, test and debug on simulators.",
+    "developerName": "PlaybookRun",
+    "category": "Mobile"
+  }
+}

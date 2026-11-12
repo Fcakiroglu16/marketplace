@@ -1,0 +1,16 @@
+{
+  "name": "docker-containers",
+  "version": "1.0.0-c99b2013eaaca",
+  "description": "Docker\u0027s official skills to containerize a project, write lean multi-stage Dockerfiles and Compose stacks, and confirm before any destructive Docker command, with the Docker docs MCP.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "docker",
+    "dockerfile",
+    "compose",
+    "containers",
+    "buildkit",
+    "official"
+  ]
+}
