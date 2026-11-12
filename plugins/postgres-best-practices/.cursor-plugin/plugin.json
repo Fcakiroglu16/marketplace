@@ -1,7 +1,7 @@
 {
   "name": "postgres-best-practices",
   "displayName": "PostgreSQL best practices",
-  "version": "1.0.0-c36d8136f7130",
+  "version": "1.0.0-c5f9021298b27",
   "description": "Schema design, indexing, query tuning, zero-downtime migrations, schema exploration and pgvector search for any PostgreSQL database, from Supabase and Tiger Data.",
   "author": {
     "name": "PlaybookRun"

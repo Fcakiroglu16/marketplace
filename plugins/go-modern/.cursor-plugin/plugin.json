@@ -1,7 +1,7 @@
 {
   "name": "go-modern",
   "displayName": "Modern Go",
-  "version": "1.0.0-c59fcef0dca62",
+  "version": "1.0.0-c63dde380640a",
   "description": "Idiomatic Go for your Go version: JetBrains\u0027 modern Go guidelines plus skills for errors, concurrency, context, testing, security, linting and naming, with the gopls MCP server.",
   "author": {
     "name": "PlaybookRun"

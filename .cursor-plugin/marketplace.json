@@ -368,7 +368,7 @@
         "golangci-lint"
       ],
       "source": "plugins/go-modern",
-      "version": "1.0.0-c59fcef0dca62"
+      "version": "1.0.0-c63dde380640a"
     },
     {
       "name": "rust-idiomatic",
@@ -512,7 +512,7 @@
         "pgvector"
       ],
       "source": "plugins/postgres-best-practices",
-      "version": "1.0.0-c36d8136f7130"
+      "version": "1.0.0-c5f9021298b27"
     },
     {
       "name": "timescaledb",
@@ -526,7 +526,7 @@
         "analytics"
       ],
       "source": "plugins/timescaledb",
-      "version": "1.0.0-c26b4a486e212"
+      "version": "1.0.0-c7e2b37e9b58c"
     },
     {
       "name": "supabase",
@@ -746,7 +746,7 @@
         "incident-response"
       ],
       "source": "plugins/grafana-observability",
-      "version": "1.0.0-c9c8d989fec84"
+      "version": "1.0.0-c514bd67293af"
     },
     {
       "name": "k6-load-testing",
