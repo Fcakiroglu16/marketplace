@@ -1,0 +1,19 @@
+{
+  "name": "ddd-clean-architecture-dotnet",
+  "displayName": "DDD and Clean Architecture (.NET)",
+  "version": "1.0.0-ccceb7bb9965d",
+  "description": "Choose and apply Vertical Slice, Clean Architecture, DDD or a modular monolith in ASP.NET Core, with aggregates, value objects, domain events and messaging.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "dotnet",
+    "csharp",
+    "ddd",
+    "clean-architecture",
+    "onion",
+    "vertical-slice",
+    "cqrs"
+  ],
+  "category": "architecture"
+}

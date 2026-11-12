@@ -807,6 +807,52 @@
       ],
       "source": "plugins/cloudflare-workers",
       "version": "1.0.0-c5c6c550f73cf"
+    },
+    {
+      "name": "ddd-clean-architecture-dotnet",
+      "description": "Choose and apply Vertical Slice, Clean Architecture, DDD or a modular monolith in ASP.NET Core, with aggregates, value objects, domain events and messaging.",
+      "category": "Architecture",
+      "keywords": [
+        "dotnet",
+        "csharp",
+        "ddd",
+        "clean-architecture",
+        "onion",
+        "vertical-slice",
+        "cqrs"
+      ],
+      "source": "plugins/ddd-clean-architecture-dotnet",
+      "version": "1.0.0-ccceb7bb9965d"
+    },
+    {
+      "name": "software-architecture-patterns",
+      "description": "Clean, onion and hexagonal (ports and adapters) architecture, DDD, CQRS and architecture decision records for any language.",
+      "category": "Architecture",
+      "keywords": [
+        "ddd",
+        "clean-architecture",
+        "onion",
+        "hexagonal",
+        "ports-and-adapters",
+        "cqrs",
+        "adr"
+      ],
+      "source": "plugins/software-architecture-patterns",
+      "version": "1.0.0-c0c4569baa996"
+    },
+    {
+      "name": "event-driven-architecture",
+      "description": "Event sourcing, projections, sagas and microservice boundaries for distributed systems.",
+      "category": "Architecture",
+      "keywords": [
+        "event-sourcing",
+        "cqrs",
+        "sagas",
+        "microservices",
+        "distributed-systems"
+      ],
+      "source": "plugins/event-driven-architecture",
+      "version": "1.0.0-cc89b49497ef6"
     }
   ]
 }

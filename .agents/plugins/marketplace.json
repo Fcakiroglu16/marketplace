@@ -675,6 +675,42 @@
         "authentication": "ON_INSTALL"
       },
       "category": "Cloud"
+    },
+    {
+      "name": "ddd-clean-architecture-dotnet",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ddd-clean-architecture-dotnet"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Architecture"
+    },
+    {
+      "name": "software-architecture-patterns",
+      "source": {
+        "source": "local",
+        "path": "./plugins/software-architecture-patterns"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Architecture"
+    },
+    {
+      "name": "event-driven-architecture",
+      "source": {
+        "source": "local",
+        "path": "./plugins/event-driven-architecture"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Architecture"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "name": "ddd-clean-architecture-dotnet",
+  "version": "1.0.0-ccceb7bb9965d",
+  "description": "Choose and apply Vertical Slice, Clean Architecture, DDD or a modular monolith in ASP.NET Core, with aggregates, value objects, domain events and messaging.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "dotnet",
+    "csharp",
+    "ddd",
+    "clean-architecture",
+    "onion",
+    "vertical-slice",
+    "cqrs"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "DDD and Clean Architecture (.NET)",
+    "shortDescription": "Choose and apply Vertical Slice, Clean Architecture, DDD or a modular monolit...",
+    "longDescription": "Choose and apply Vertical Slice, Clean Architecture, DDD or a modular monolith in ASP.NET Core, with aggregates, value objects, domain events and messaging.",
+    "developerName": "PlaybookRun",
+    "category": "Architecture"
+  }
+}

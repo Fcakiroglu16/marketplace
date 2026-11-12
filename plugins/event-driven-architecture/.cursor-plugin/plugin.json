@@ -1,0 +1,17 @@
+{
+  "name": "event-driven-architecture",
+  "displayName": "Event-driven and distributed architecture",
+  "version": "1.0.0-cc89b49497ef6",
+  "description": "Event sourcing, projections, sagas and microservice boundaries for distributed systems.",
+  "author": {
+    "name": "PlaybookRun"
+  },
+  "keywords": [
+    "event-sourcing",
+    "cqrs",
+    "sagas",
+    "microservices",
+    "distributed-systems"
+  ],
+  "category": "architecture"
+}
